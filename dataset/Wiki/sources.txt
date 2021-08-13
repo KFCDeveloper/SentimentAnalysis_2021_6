@@ -1,0 +1,4402 @@
+textID	#words	title
+-----	-----	-----
+
+1514	1986	Albert, Duke in Prussia
+2514	875	Aswan
+3514	653	Government of Barbados
+4514	1895	Genetically modified maize
+6514	1580	County Dublin
+7514	687	Christine Lavin
+9514	1580	Edvard Grieg
+12514	5576	Ghost
+17514	8733	Latvia
+19514	3447	May 6
+21514	6331	Nanomedicine
+22514	2104	Obelix
+24514	5899	Psychosis
+26514	873	Roald Hoffmann
+30514	2614	The Pogues
+31514	2553	Beyonder
+33514	3252	War of the Polish Succession
+35514	1150	1838
+37514	6641	Depleted uranium
+38514	360	Broadband Integrated Services Digital Network
+39514	335	1344
+40514	3893	United States presidential election, 1844
+42514	284	1289
+44514	824	Mahikeng
+47514	128	Cloud albedo
+49514	1688	Henri Lebesgue
+53514	3396	Edith Cavell
+54514	202	Pedal
+55514	46	960s BC
+60514	275	193 BC
+61514	363	The Story of Louis Pasteur
+63514	4023	Campinas
+65514	390	Chico Heat
+66514	507	Temple Mount and Eretz Yisrael Faithful Movement
+67514	1300	Ununpentium
+78514	389	Meliae
+80514	116	Eirene (artist)
+89514	3492	New London, Connecticut
+90514	770	AgwÇ
+91514	451	Live Oak County, Texas
+92514	569	Detergent
+93514	20	Lakota mythology
+94514	1538	Taney County, Missouri
+95514	1174	Warren County, Kentucky
+96514	11	Papare
+98514	6031	Green anarchism
+100514	76	Arundhati
+103514	109	Whitsunday Islands National Park
+105514	350	Chignik Lagoon, Alaska
+107514	641	Pearsonville, California
+108514	633	Tabernash, Colorado
+109514	368	Ocean City, Florida
+110514	568	Kahuku, Hawaii
+111514	880	Steward, Illinois
+112514	605	Albion, Indiana
+114514	649	Walnut, Kansas
+115514	347	Ida, Louisiana
+116514	1327	Clinton, Maryland
+117514	37	Marum
+118514	52	Ambt Montfort
+119514	346	Foster Township, Big Stone County, Minnesota
+120514	326	Lac qui Parle Township, Lac qui Parle County, Minnesota
+121514	328	Vail Township, Redwood County, Minnesota
+122514	501	Milford, Missouri
+124514	936	Hart's Location, New Hampshire
+125514	2289	Tinton Falls, New Jersey
+126514	1025	German Flatts, New York
+127514	2305	Hebron, New York
+128514	559	Wales, North Dakota
+129514	847	Granville, Ohio
+130514	689	Perkins, Oklahoma
+131514	482	Cornwells Heights-Eddington, Pennsylvania
+132514	903	Belle Vernon, Pennsylvania
+133514	371	Herndon, Pennsylvania
+134514	1074	Ninety Six, South Carolina
+135514	1268	Clifton, Texas
+136514	336	Bogata, Texas
+137514	332	Blue Ridge, Virginia
+138514	515	Oakvale, West Virginia
+139514	353	Maple Creek, Wisconsin
+141514	58	Madison Township, Pennsylvania
+142514	1554	Yeshivish
+143514	533	East Dunbartonshire
+144514	1087	Giza
+145514	367	Chysauster Ancient Village
+146514	148	Trehoje Municipality
+151514	2692	Cantinflas
+157514	57	Herne, Belgium
+161514	88	Inherit the Wind
+162514	193	Mingus Big Band
+163514	210	Buckeye
+166514	1525	Antonin Scalia
+170514	264	Suzanne Crough
+172514	578	1907 in film
+173514	894	Gambit
+174514	6475	River Mole
+176514	2834	The Beggar's Opera
+177514	80	RLM
+180514	1936	MC Solaar
+185514	1211	Spiritual (music)
+187514	183	Rest
+188514	1080	Dexter Holland
+195514	57	Berylliosis
+197514	932	Suffer (album)
+198514	1039	Sugar Ray Leonard vs. Thomas Hearns
+200514	1381	Adeliza of Louvain
+202514	779	Michael Morris, 3rd Baron Killanin
+204514	627	Little London, Tadley, Hampshire
+205514	1060	Johann Franz Encke
+208514	387	1805 in literature
+211514	863	National Monument (United States)
+212514	625	Cod liver oil
+216514	99	Tree and Leaf
+217514	724	Princess Caraboo
+219514	72	Diving at the 1904 Summer Olympics
+222514	1833	Lil Hardin Armstrong
+224514	615	Cahir
+225514	123	Hedda (film)
+227514	1242	Robert Stack
+228514	187	Acrobatidae
+229514	1245	Mato Grosso
+230514	543	Intraplate earthquake
+233514	41	Louisburg
+234514	1663	Bathroom
+236514	24	Wendish
+240514	1368	Heinrich HÑberlin
+246514	426	UCI Road World Championships - Men's road race
+255514	1661	Religious art
+256514	2149	Tamaraw
+260514	1013	Onalaska, Wisconsin
+262514	542	Heart of America Athletic Conference
+264514	395	Luxor AB
+269514	172	Navarre (disambiguation)
+275514	1466	Paphiopedilum
+277514	55	NYRA
+285514	2116	Ashvamedha
+288514	2655	Pixie
+291514	1571	Richard Montgomery High School
+293514	212	Bad Boys
+294514	285	Superdeformation
+302514	443	Pierre Mertens
+303514	620	Kongsberg Defence &amp; Aerospace
+306514	63	King Wu
+309514	2001	Unsafe at Any Speed
+310514	1080	Charles Spencer, 3rd Earl of Sunderland
+317514	435	Erik Nevland
+318514	234	Robert Woodrow Wilson
+320514	364	Frank Crumit
+322514	223	Mevania
+326514	585	Giuseppe Sinopoli
+329514	1267	SU-122
+332514	1024	Prince of Wales Hospital
+335514	15	Murphy's
+339514	1206	Franáois Cabarrus, 1st Count of Cabarr£s
+340514	5125	McDonnell Douglas MD-80
+342514	426	Heike Makatsch
+346514	477	List of companies of Mexico
+349514	224	Louis-Antoine Garnier-Pagäs
+350514	2859	Andover, Hampshire
+352514	1854	James Brolin
+353514	601	National Missionary Baptist Convention of America
+354514	109	Cacamatzin
+355514	2260	Stephen Roche
+360514	532	Joshua Nkomo
+362514	896	Progressive Unionist Party
+371514	1715	Gabriel Prosser
+372514	1022	Schur decomposition
+374514	911	Okehampton
+379514	267	Transarmament
+385514	2808	Harriet Cohen
+387514	6125	Flashtube
+390514	570	Ostr¢w Wielkopolski
+393514	1096	Stoke Mandeville Hospital
+394514	3798	Shih Ming-teh
+395514	206	Klodzko County
+396514	2188	Edward Victor Appleton
+400514	1435	Doctor of Musical Arts
+405514	910	Speaker of the New Zealand House of Representatives
+406514	829	GameLine
+414514	384	Tom Allen
+416514	907	Karen Page
+418514	80	Binary Format Description language
+420514	902	William Amherst, 1st Earl Amherst
+422514	2181	Mega Man 3
+423514	1252	Matt Dillon
+425514	1980	Art theft
+427514	1000	Revolutionary Nationalist Movement
+430514	2449	Project Habakkuk
+432514	3436	Herman J. Mankiewicz
+433514	264	Federal Correctional Institution, Terminal Island
+437514	102	USS Concord
+444514	836	D. W. Davis
+446514	386	Oldest Member
+448514	1214	Tom Arnold (actor)
+454514	1185	Marzipan
+456514	491	Joe Melson
+460514	80	River Rother
+462514	1067	Bill Deedes
+468514	250	Yardbird
+473514	2088	Generalized coordinates
+476514	351	Nepalese rupee
+480514	918	Jim Watson (Canadian politician)
+481514	400	Nokia 6620
+482514	270	Amy Dillwyn
+492514	125	Live at the Hollywood Bowl (Ben Harper film)
+503514	68	Miwa, Yamaguchi
+504514	254	Madeleine (Paris MÇtro)
+506514	472	El Corte InglÇs
+512514	98	List of subcamps of Auschwitz
+515514	1443	Puch
+517514	26	Norsk
+518514	91	Pleioblastus
+520514	320	Soft rock
+533514	227	Pal Joey (novel)
+536514	266	The Adventure of the Deptford Horror
+550514	30	Jorge Castro
+552514	89	Dissertation on the English Language
+561514	129	ENT Ltd.
+562514	359	USS Oregon City (CA-122)
+563514	528	Canada Elections Act
+564514	1061	KV Mechelen
+569514	23	Cormolain
+578514	55	The Tech
+582514	382	MLAN
+583514	918	Automatic Terminal Information Service
+584514	3034	Book of the Law of the Lord
+591514	2166	Telebit
+594514	289	Transitional deacon
+596514	66	Dovetail (disambiguation)
+599514	605	Hocking Hills
+601514	461	Chita District, Aichi
+602514	430	Eysteinn
+603514	77	Esclados
+609514	2199	Nikolai Ryzhkov
+610514	375	Whiteout (2000 film)
+614514	1557	All Hallows College
+624514	130	Shimoina District, Nagano
+625514	805	Teachers' Day
+626514	172	Presentation
+630514	741	Bootleg Series Volume 1: The Quine Tapes
+631514	193	Physalia
+638514	4188	BBC Online
+640514	169	General Electric F101
+647514	59	University of Copenhagen Faculty of Social Sciences
+663514	3410	College of Wooster
+670514	765	Tom and Huck
+674514	262	Bob Nieman
+679514	1047	Kedarnath
+680514	794	Bank of Ceylon
+690514	1524	Ahmad Shah Qajar
+692514	1957	Harry Kellar
+694514	1304	Zvezda (ISS module)
+695514	2648	Judicature Acts
+700514	400	Farmhouse (album)
+703514	130	Feed Magazine
+707514	109	Bankfield Road (Ottawa)
+712514	10	Coin magic
+713514	94	List of hospitals in Bahrain
+719514	110	Direct Line
+723514	2065	Michael Owen Bruce
+725514	281	Mordheim
+726514	23	Municipalities of Aguascalientes
+728514	64	Edward Grant (disambiguation)
+731514	370	Loop electrical excision procedure
+750514	9041	Nissan Micra
+751514	173	The Black Camel
+756514	800	Milos Obrenovic I, Prince of Serbia
+759514	23	Cowhill, Gloucestershire
+763514	2137	First Armistice at Compiägne
+766514	580	Australian wood duck
+771514	60	Elizabeth Roemer
+772514	676	Pandora (disambiguation)
+780514	5565	Spanish grammar
+783514	403	Gaius Julius Caesar
+784514	609	National Library of Scotland
+791514	2781	1977 Atlantic hurricane season
+797514	270	Judy Tyler
+806514	405	Oran Pape
+807514	57	Firkin
+816514	1401	Lee Camp (footballer)
+822514	403	Thomas Tang
+824514	295	Henry Litton
+825514	1879	Halomethane
+827514	1911	Revolt of the Admirals
+832514	519	Properties of the Holy See
+841514	790	Ambazonia
+842514	233	Bahuvrihi
+846514	15	USS Anchorage
+850514	1084	Entertaining Mr Sloane
+852514	4666	Julius Peppers
+853514	34	Cocycle class
+854514	1169	Alkborough
+860514	181	Ikeda, Fukui
+861514	1175	Concord River
+866514	179	Thunderhill Raceway Park
+873514	2468	The War Machines
+878514	1145	Shanballymore
+881514	84	Davoud Soleymani
+883514	27	Opana
+885514	699	Hossein AlizÉdeh
+887514	127	Margrete Auken
+888514	13	Baileyville
+890514	119	The Screwdrivers
+893514	581	Saint-Jacques Tower
+901514	277	Juno (band)
+907514	290	Porsche 934
+910514	989	Arctocephalus forsteri
+918514	408	Plymouth Church (Brooklyn)
+924514	698	Erraid
+925514	150	Elections in Sri Lanka
+929514	2210	Hawazma tribe
+933514	1253	Walter Lentaigne
+934514	293	Enzo Baldoni
+937514	366	SURAnet
+938514	1269	Sight &amp; Sound
+939514	74	WRA
+942514	717	International Institute for Management Development
+946514	75	Marino railway station, Adelaide
+948514	151	Kanda Nobuo
+950514	418	Rosann Wowchuk
+951514	110	Weltausstellung 1873 Wien
+952514	1271	Kuroshio Current
+962514	416	Seclusion
+963514	420	Bloch MB.81
+964514	396	USS Mahan (DD-102)
+966514	1122	Silvestre Reyes
+968514	562	Brockham
+977514	3577	Operation Husky order of battle
+979514	2031	Glycophorin C
+997514	261	Kim Ki-hoon
+999514	175	De Gasparis (crater)
+1003514	2917	Eboracum
+1013514	84	King River
+1014514	2554	Another Brick in the Wall
+1015514	214	Santur (Persian instrument)
+1021514	1174	Lordosis
+1028514	266	Calypso (song)
+1032514	273	Second-person narrative
+1041514	1163	Mohammad-Ali Jamalzadeh
+1042514	2150	Mongolian gerbil
+1043514	634	Robert Gray (poet)
+1044514	392	VÜlerenga Ishockey
+1046514	8638	Criticism of Walmart
+1047514	446	Necare
+1049514	421	Bernie Morris
+1050514	563	Quilpie, Queensland
+1056514	191	List of mayors of Barcelona
+1057514	1262	George Henry Moore (politician)
+1065514	659	Maria McKee
+1066514	281	List of state leaders in 1420
+1067514	223	Conyza
+1070514	634	TurboJET
+1072514	1410	Tamagotchi Connection
+1085514	63	Amy Brown
+1091514	693	Bila Tserkva
+1096514	43	Committee for Independence and Democracy in Laos
+1104514	314	Columnar phase
+1109514	1939	USS Trepang (SS-412)
+1113514	285	MyoD
+1123514	363	Jorge Dely ValdÇs
+1125514	1955	Marvin Harrison
+1131514	57	Set partitioning in hierarchical trees
+1134514	148	Putiidhem
+1140514	1222	Airoli
+1141514	718	Ufton Nervet
+1158514	92	Bobsleigh at the 1998 Winter Olympics
+1170514	4228	USS Yorktown (PG-1)
+1173514	239	Woonerf
+1178514	142	Those Unknown
+1180514	115	St. Augustine Bridge Company
+1184514	180	Mojo Records
+1193514	221	John William Sayer
+1195514	1442	Embryoid body
+1196514	381	Ricardo Alvarez-Riv¢n
+1201514	344	George Herbert Walker IV
+1211514	105	Spectral induced polarisation
+1212514	253	NPR (disambiguation)
+1213514	333	ERC (software)
+1217514	170	Blue star
+1219514	299	Norman Harvey
+1226514	1235	Peter Collins (racing driver)
+1229514	1104	Lisa Caputo
+1231514	782	List of state leaders in 879
+1234514	8780	Kildare County F.C.
+1238514	1379	Christmas with the Kranks
+1239514	450	Persistent world
+1242514	121	Canada-Central American Free Trade Agreement
+1249514	285	R. v. Church of Scientology of Toronto
+1256514	277	Impromptu preaching
+1263514	11243	History of the Jews in France
+1265514	176	Patrick Levar
+1268514	337	Mangyan peoples
+1272514	316	Fear (John Cale album)
+1273514	95	Quintero brothers
+1274514	1430	William Scroggs
+1275514	1844	Canadian Red Ensign
+1281514	220	La Cenicienta
+1290514	330	Salvadori's teal
+1318514	691	Takhtsinhji
+1324514	81	Michele Ferrero
+1327514	240	Bruce R. Bent
+1330514	238	Twin Sons of Different Mothers
+1335514	1635	Battle of North Point
+1336514	1751	Mostek
+1337514	399	Mabel
+1353514	565	Orbiter Vehicle Designation
+1357514	2027	Recombinant DNA
+1363514	2075	Throwdown (band)
+1365514	918	Haun's Mill massacre
+1376514	572	Apollodotus II
+1394514	478	Doris Speed
+1397514	592	Leon Edel
+1401514	854	Kweisi Mfume
+1407514	63	Ghali
+1411514	427	Battle of Warsaw (1656)
+1438514	894	Shooto
+1441514	3303	USS Klakring (FFG-42)
+1454514	391	Chandler Park
+1458514	231	William Og de Burgh
+1469514	167	Albatros Airways
+1470514	1025	Operation Soap
+1477514	577	Norm Ledgin
+1479514	473	Fort Stevens (Oregon)
+1481514	290	Komatipoort
+1491514	83	BT (tabloid)
+1494514	1482	Giovanni Brusca
+1498514	139	Weightlifting at the 1980 Summer Olympics
+1502514	1074	1st Vermont Brigade
+1505514	373	Callahan's Lady
+1511514	42	Trelew (disambiguation)
+1512514	173	Tlikakila River
+1522514	52	210 Isabella
+1527514	467	Yael Dayan
+1529514	4110	Academic writing
+1530514	240	Christopher Lewis (priest)
+1546514	2621	Lay's
+1553514	96	Sannieshof
+1555514	1123	Richard Patterson (artist)
+1560514	262	Ahmad ibn Yusuf
+1568514	143	Song Xiuyan
+1569514	12	Trummer
+1575514	29	Little Everdon
+1581514	914	The Persuasions
+1583514	149	Witness Mangwende
+1589514	1079	I'm Gonna Be (500 Miles)
+1596514	587	Bruce Pandolfini
+1597514	718	Denis McQuail
+1598514	139	Charles Holland (actor)
+1614514	619	Tara Brooch
+1619514	585	James Douglas-Hamilton, Baron Selkirk of Douglas
+1621514	710	Lunar craters
+1629514	243	Sayn-Altenkirchen
+1634514	530	Monywa
+1635514	55	Midwinter Night's Dream
+1641514	965	Stefan Lochner
+1643514	1303	Symphony No. 7 (Sibelius)
+1645514	140	Holmview railway station
+1647514	98	Florida House Bill H-837
+1648514	474	Gawilghur
+1656514	954	MS Silja Festival
+1668514	44	Uruguayan Rugby Union
+1670514	314	Ontario general election, 1926
+1673514	1747	Life (1999 film)
+1675514	203	Ian Bryson
+1684514	76	John Wilson (mathematician)
+1687514	78	Live at XM
+1694514	255	Edward Walsh (poet)
+1704514	1277	Joe Lapchick
+1708514	1022	Konstantin Simonov
+1713514	213	The Stag's Head
+1714514	791	Incident at Loch Ness
+1716514	544	R62A (New York City Subway car)
+1721514	1618	Comes
+1737514	142	Gaines Trace
+1741514	278	Oxygen (disambiguation)
+1750514	415	Gilbert de Clare, 1st Earl of Pembroke
+1751514	274	Dalton railway station
+1755514	162	Frank Weatherwax
+1761514	4274	Magic sword
+1766514	360	When in Rome (2002 film)
+1772514	205	Camryn Grimes
+1784514	1972	Administrative divisions of Lithuania
+1791514	659	Package tour
+1792514	26	Wampas
+1800514	285	PÇter Olajos
+1802514	485	John Thurnam
+1813514	1027	Free-fall time
+1826514	560	Dewey Square
+1839514	102	Putranjivaceae
+1840514	2238	Expedition of the Thousand
+1847514	495	Maynard G. Krebs
+1850514	552	Rock Goddess
+1852514	130	Melt Banana/Discordance Axis split 7&quot;
+1853514	332	List of state leaders in 703
+1854514	190	Bat Galim
+1857514	822	Harbour Town
+1862514	2556	Saintes, Charente-Maritime
+1871514	1672	Child Labour Programme of Action (South Africa)
+1885514	144	Kottayil Kovilakom
+1887514	350	Lannion
+1895514	838	Bruce Welch
+1901514	517	Roog (story)
+1911514	333	Flashfire (comics)
+1912514	126	United Kingdom general election, 1859 (Ireland)
+1924514	344	Vice Vukov
+1925514	1064	Space Taxi
+1933514	1332	Ken Hill (playwright)
+1942514	538	Aubie
+1949514	422	David McCreery
+1950514	208	Råbni?a District
+1962514	202	The Creature Wasn't Nice
+1963514	324	ISO 10993
+1964514	385	Yoshio Sawai
+1968514	452	Thylias Moss
+1969514	1295	Guy Banister
+1970514	257	Tadelakt
+1974514	138	Lockport Community Television
+1978514	167	Kings Langley railway station
+1982514	800	The Ark (band)
+1987514	239	Wind Power Production Incentive
+1990514	693	Trinidad and Tobago Football Association
+1994514	37	Fucaceae
+2002514	539	Charles Flato
+2004514	481	Charring
+2005514	151	Ian Stark
+2009514	831	External fixation
+2010514	475	Naval Aircraft Factory N3N
+2012514	369	Diamond Ranch High School
+2013514	1695	Okinotorishima
+2015514	2514	Faurot Field
+2017514	266	Adriane Lenox
+2019514	408	Luton Airport Parkway railway station
+2031514	585	Angel hair (folklore)
+2034514	135	Chill¢n River
+2036514	1907	Lockheed Model 12 Electra Junior
+2047514	53	Saint-MÇen-le-Grand
+2051514	143	German State Crown
+2052514	298	Ronald St. John Macdonald
+2059514	518	RenÇ-Levasseur Island
+2062514	141	Hirschfeld
+2067514	1593	Scandinavian prehistory
+2070514	254	Tupenu
+2074514	789	Battle of Fort Duquesne
+2080514	84	Icaro Air
+2081514	665	Messerschmitt Kabinenroller
+2084514	62	Hennes
+2092514	337	Pretty Boy Floyd (Canadian band)
+2095514	21	Namangi Aute
+2096514	952	Threads of Fate
+2138514	79	Anak Mindanao
+2148514	26	Power Woman
+2149514	97	Magnus &quot;ôlme&quot; Johansson
+2150514	156	Tandanor
+2155514	800	Manokwari
+2158514	571	Margam
+2163514	748	Battle of Providien
+2165514	628	KIMA-TV
+2167514	130	National Union of Public Employees
+2173514	30	Oyo, Republic of the Congo
+2174514	448	Sylvester matrix
+2175514	63	Cosmic mass
+2179514	160	Isabel Vericat
+2181514	182	Thumb Bandits
+2182514	4127	Dialogical self
+2183514	562	Michael Chambers
+2185514	1868	City of Ten Thousand Buddhas
+2199514	365	List of state leaders in 763
+2202514	1349	The Byrds' Greatest Hits
+2205514	225	Giant grouper
+2206514	19430	List of Doctor Who villains
+2212514	55	Ramillies
+2213514	17	Kolva River
+2214514	211	Roche (crater)
+2234514	27	Winebrenner
+2261514	622	Saudi Binladin Group
+2264514	1066	Tactical assault group
+2280514	89	1944 in archaeology
+2291514	188	Agaric
+2295514	176	The Sign of the Cross (book)
+2302514	543	Enterprise software
+2303514	2184	Dave MacDonald
+2304514	288	Sobrarbe
+2315514	2093	Preston Hollow, Dallas
+2340514	438	Zarubintsy culture
+2342514	2059	My Summer of Love
+2346514	268	Wellington Barracks
+2351514	99	Mazzella
+2354514	146	The Ballad of High Noon
+2359514	3462	History of the Bah†'° Faith
+2365514	199	Yampi Sound
+2366514	66	Faridhoo (Haa Dhaalu Atoll)
+2379514	237	Make Believe (band)
+2381514	151	Marcel LaFosse
+2384514	223	Henri Duveyrier
+2386514	358	2002 FIFA World Cup qualification (CONCACAF)
+2387514	156	Redeco
+2390514	122	Tipperary (song)
+2393514	239	Melchor de Mencos
+2394514	58	Terry Murphy (snooker player)
+2404514	1179	Proactiv
+2423514	282	Clique (disambiguation)
+2426514	531	Cai Fu
+2434514	749	Bulls on Parade
+2435514	96	Tantrum (disambiguation)
+2437514	6	AmiQNX
+2441514	48	La Concordia
+2444514	265	Eurotunnel Class 0001
+2446514	2307	Kevin Greene
+2447514	378	Zaza Pachulia
+2452514	830	Sasha Vujacic
+2457514	140	Henry Bech
+2463514	659	Pipes of Peace
+2465514	101	Love Ride
+2475514	241	C. D. Howe Institute
+2485514	1339	Da Boom
+2496514	78	MRF Trophy in 2005-06
+2499514	518	Legislative Council of Brunei
+2507514	111	Anne Lindbergh
+2512514	3886	Berlin Observatory
+2521514	517	Clinical ecology
+2527514	45	CEG
+2533514	1361	Manuka, Australian Capital Territory
+2534514	711	Zakes Mda
+2535514	1965	Ikenobo
+2537514	754	Blake Schwarzenbach
+2544514	477	Perth Water
+2548514	391	Philadelphia Flower Show
+2552514	572	John Sleeper Clarke
+2562514	133	Sun-Pat
+2563514	305	Thodikana
+2575514	1177	Municipality of Woollahra
+2580514	69	Iberville
+2581514	196	Anglo-American music
+2582514	28	Abnabat
+2584514	269	Close to You
+2586514	644	Penclawdd
+2589514	389	Washington State Route 401
+2599514	324	Thomas Jones (T. J.)
+2622514	93	Earth 2
+2623514	450	List of Bangladeshi Americans
+2629514	141	Littoral (disambiguation)
+2632514	167	Under the Moon
+2634514	377	Westala and Villtin
+2645514	388	Timoga Spring
+2646514	358	Aulus Cluentius Habitus
+2668514	6952	Anthony DiNozzo
+2670514	358	Cis-Sutlej states
+2679514	73	Lippi
+2680514	209	Monique BuzzartÇ
+2681514	58	WRXL
+2715514	799	Ian Callum
+2724514	451	James M. Ryan
+2728514	7399	Locomotives of India
+2735514	328	List of Canadian mobile phone companies
+2736514	84	Likoma District
+2737514	1315	Barmakids
+2759514	89	Group One
+2760514	456	British Rail Class 21
+2761514	68	Martha, Inc.: The Story of Martha Stewart
+2767514	895	Stefano Fiore
+2779514	91	Eddie Lubanski
+2780514	198	Federal Ministry for Economics and Labour (Germany)
+2785514	888	Pedro Lagos
+2795514	430	Bruno Schleinstein
+2797514	311	John Katzman
+2801514	449	Vaux (band)
+2806514	732	Henry Winstanley
+2825514	836	Samuda Estate
+2836514	3420	Lee Adama
+2839514	165	Chunfen
+2841514	1335	Generalized geography
+2848514	213	International Federation of Audit Bureaux of Circulations
+2859514	209	Birdland (band)
+2860514	19	Mendicino
+2866514	298	Smallville (season 4)
+2873514	387	ArquÖ Petrarca
+2876514	244	Athina Livanos
+2877514	207	Harry Chapman (footballer)
+2884514	467	Stephane Groueff
+2890514	34	Savane
+2900514	596	Cliff Gladwin
+2902514	20	28 Andromedae
+2904514	520	Lodhi Road
+2905514	572	Bassano Virtus 55 S.T.
+2907514	1560	G. Vernon Bennett
+2911514	143	Samuel W. Rowse
+2913514	26	x Sophrocattleya
+2925514	25	Hiriberri/Villanueva de Aezkoa
+2935514	103	South Creake
+2938514	964	Albert Patterson
+2954514	1730	Arthur Irwin
+2956514	323	LMS Stanier Class 5 4-6-0 44686/7
+2961514	962	Antoine Augustin Calmet
+2967514	128	Yankie Bar
+2978514	446	Pellegrini
+2979514	323	Casey Spooner
+2996514	37	Why Lincoln Matters
+3006514	424	The Boston Teens
+3009514	307	
+3014514	1506	Ilan PappÇ
+3020514	301	List of state leaders in 21
+3023514	79	Centre Mario Gosselin
+3026514	582	Mirror Blue
+3030514	402	Index of Venezuela-related articles
+3031514	1110	Janus Dousa
+3036514	158	Celin Romero
+3039514	100	American Board of Preventive Medicine
+3049514	894	Larry Harlow (salsa)
+3050514	421	Perdue, Saskatchewan
+3052514	363	Type 054 frigate
+3059514	352	Law of truly large numbers
+3082514	188	Lovran
+3093514	334	List of Milky Way's satellite galaxies
+3102514	245	Robert Dolling
+3105514	1103	Crossness Pumping Station
+3106514	728	Quan Yeomans
+3109514	160	EMC Invista
+3116514	34	Upchurch Pottery
+3125514	262	Austria at the 1996 Summer Olympics
+3126514	243	Michael McIlorum
+3131514	514	Leningrad Cowboys Go America
+3137514	3184	List of philosophy anniversaries
+3146514	315	Stevenson Archer (1786-1848)
+3147514	226	ConnectEast
+3150514	1541	Long-Haired Hare
+3155514	116	Operation Eagle Assist
+3169514	598	Rocester F.C.
+3179514	314	Turn (Travis song)
+3180514	1002	RoboCop: The Series
+3182514	32	Twibright Labs
+3185514	454	Travelle Wharton
+3191514	189	Alpine skiing at the 1984 Winter Olympics
+3198514	135	Rap Snacks
+3202514	224	Howell High School (Howell, Michigan)
+3208514	808	Ivor van Heerden
+3210514	619	David Ehrenstein
+3217514	62	Pyrognomic
+3223514	263	Evil Alien Conquerors
+3233514	681	Battle of Glog¢w
+3234514	709	KCSP (AM)
+3236514	553	Coins of the South African rand
+3237514	96	Brendan Gamble
+3240514	191	Higher Ground Project
+3244514	550	HM Prison Castle Huntly
+3246514	423	ECW (file format)
+3248514	135	Greater long-nosed armadillo
+3249514	518	Very minimum shift keying
+3253514	25	Jonathan Millmow
+3255514	19	Nokes
+3276514	1161	Energetics
+3277514	711	Opinion polling in the Canadian federal election, 2006
+3305514	302	Royal Institute of Painters in Water Colours
+3336514	1715	International inequality
+3360514	2869	Nodame Cantabile
+3365514	609	Oral interpretation
+3380514	47	Scott Wilkinson
+3382514	376	Bernard Budiansky
+3383514	226	Namak-ri
+3403514	380	The Best of Guided by Voices: Human Amusements at Hourly Rates
+3408514	92	P-Anisic acid
+3410514	995	Twin-turbo
+3416514	1461	William Basse
+3445514	300	Jamaica national rugby league team
+3450514	318	Stone palette
+3462514	88	Mark Wood
+3471514	107	David Zurabishvili
+3484514	296	Louis IX, Duke of Bavaria
+3487514	85	Bernardo G¢mez-Pimienta
+3491514	455	Stopera
+3498514	26	Wojciech Fangor
+3501514	43	Tycho Brahe (crater)
+3504514	303	Mutio Vitelleschi
+3507514	45	Paul Dearing
+3511514	770	Ashfork-Bainbridge Steel Dam
+3533514	581	Archaeornithoides
+3539514	213	Dead rubber
+3540514	937	Kellie Castle
+3541514	593	Corbel arch
+3558514	93	M5 motorway (Hungary)
+3575514	112	Baimao Hou
+3596514	67	Tada Mitsuyori
+3598514	298	Amber Sainsbury
+3607514	41	Jud Hurd
+3615514	2266	MythBusters (2005 season)
+3616514	409	Gheorghe Tattarescu
+3617514	117	Bhargavi
+3621514	1663	Kamen Rider Kabuto
+3623514	349	Imperial Highway
+3632514	59	Frank Doubleday (actor)
+3634514	395	Arnold Rampersad
+3644514	1176	Soft serve
+3658514	92	Bremen thaler
+3659514	348	Delazon Smith
+3665514	699	Ricky Grace
+3666514	1481	Desert monitor
+3681514	21	Robertson Island (West Virginia)
+3689514	23	Mount Memuro
+3694514	390	Carlyle Works Limited
+3696514	197	Market Square
+3703514	254	Beat Fehr
+3712514	258	Konstantin-Assen, Prince of Vidin
+3715514	712	34th Brigade (Australia)
+3718514	1147	Egham Town F.C.
+3738514	103	List of Wagga Wagga suburbs and localities
+3761514	90	Onmeetbarediepgat
+3764514	152	FROSTBURG
+3770514	202	Jimmy Sinclair
+3783514	938	Holmer Green F.C.
+3786514	264	Belfast Ormeau (UK Parliament constituency)
+3788514	429	Backcountry.com
+3793514	26	Model N
+3803514	174	Elnora, Alberta
+3809514	294	Saint-Sauveur
+3810514	99	WMYK
+3817514	861	Akabia ben Mahalalel
+3827514	82	Quinpirole
+3838514	60	Deer Run, West Virginia
+3839514	629	The Family (2003 TV series)
+3853514	113	Dalum IF
+3862514	171	Kingston Frontenacs (EPHL)
+3872514	330	Cranfield United F.C.
+3875514	379	Crawley Down Gatwick F.C.
+3882514	1042	William Ivey Long
+3888514	99	Al Hassan Addakhil
+3921514	68	Wigton Rural District
+3930514	512	Miguel de Cervantes Prize
+3975514	172	Edmond Michelet
+3977514	557	United States Commissioner of Education
+3984514	672	Carl Asaba
+3990514	159	Asbury Francis Lever
+3993514	2360	Moira, County Down
+4003514	581	Vanaprastham
+4014514	498	GSR Class 800
+4018514	734	Pomeroy, County Tyrone
+4019514	147	Wayne A. Johnston
+4032514	135	Abdul Khaliq Gajadwani
+4035514	246	Legal Tender Modernization Act
+4056514	335	Fort Totten (Washington, D.C.)
+4058514	26	
+4062514	88	Variable Darner
+4063514	478	Halifax Needham
+4074514	660	My Love (Petula Clark song)
+4091514	379	Musician (magazine)
+4096514	6	Cruz del Tercer Milenio
+4100514	11	Bobsleigh at the 1972 Winter Olympics
+4102514	371	Mesudiye, Ordu
+4103514	1955	Grand Lodge of Pennsylvania
+4104514	19	GÅrÅn
+4110514	251	Lotus Mark I
+4114514	77	Suriname at the 1984 Summer Olympics
+4130514	383	Toccata (Prokofiev)
+4141514	1503	Bulgarian grammar
+4155514	1015	Peter Gusenberg
+4170514	586	Jindabyne Dam
+4172514	414	Museum of Roman Civilization
+4195514	75	Seven FM
+4198514	67	Octane (disambiguation)
+4200514	208	Patrice Archetto
+4201514	147	Alena Vostr†
+4219514	1223	Lamartine Griffin Hardman
+4228514	687	De Es Schwertberger
+4229514	69	Westerland, Netherlands
+4232514	155	Bronx Community Board 9
+4239514	118	Field (agriculture)
+4241514	561	Dance of the Tiger
+4254514	228	Misra Records
+4260514	230	Agnes of Habsburg
+4269514	3410	Repetition (Kierkegaard)
+4279514	237	Cosmopolitan Bloodloss
+4280514	566	North Coast Rocketry
+4292514	761	Quantum singularity
+4298514	169	Kawaimina languages
+4300514	419	Crosland Moor
+4303514	114	Via Sacra (Wienerwald)
+4307514	51	Elrick
+4309514	418	Birmingham Guild of Handicraft
+4315514	18	List of spa towns in France
+4318514	231	Abraham Markle
+4326514	38	Ch†vez High School
+4335514	143	Howard Evans (musician)
+4348514	1665	Boeing A160 Hummingbird
+4363514	2926	Archbishop Riordan High School
+4376514	270	Set-n-Forget cooker
+4377514	7	Lori Lively
+4380514	213	Laura Sabia
+4389514	99	Earl Cureton
+4405514	136	Private Employment Agencies Convention, 1997
+4415514	50	Belize at the 2006 Commonwealth Games
+4419514	668	Arthur Frommer
+4435514	41	Saint-AndrÇ, New Brunswick
+4436514	1094	Antique Temple
+4440514	1272	Uchide no kozuchi
+4441514	2393	Frame of Government of Pennsylvania
+4460514	635	The Young Person's Guide to Becoming a Rock Star
+4465514	239	Late (album)
+4474514	168	Ogdensburg-Prescott International Bridge
+4478514	998	AASM
+4484514	81	The Luxury of Time
+4486514	68	Horn° Lomn†
+4492514	83	Jules Levin
+4495514	132	The Living Road
+4505514	1014	Hugh Lucas-Tooth
+4510514	516	Algernon Frederick Rous de Horsey
+4511514	176	Matteo Zocarini
+4513514	1225	James Grierson
+4519514	69	Trifluoromethylisocyanide
+4520514	161	Thatto Heath railway station
+4528514	158	Shah Mahmoud Hanifi
+4536514	2979	Babylonian astronomy
+4542514	114	Black-winged cuckooshrike
+4544514	566	_agad ° Hel
+4548514	165	Whiteabbey railway station
+4550514	125	Aqua String Band
+4554514	138	Khoo Kay Kim
+4560514	198	Nancy McArthur
+4561514	275	Melissa McDermott
+4567514	339	Lenrie Peters
+4583514	3090	Typhoon Karen
+4616514	176	List of mayors of Sofia
+4635514	2397	Tunbridge Wells West railway station
+4646514	498	Yuki Nakai
+4654514	142	Aspenhoff, Missouri
+4664514	345	Kahiltna Glacier
+4666514	391	Jephtha (Handel)
+4674514	370	Prehistorik 2
+4675514	375	Cymbospondylus
+4686514	230	Plainfield (NJT station)
+4698514	394	DÅsseldorf-Rath
+4705514	505	One Good Cop
+4706514	36	Area code 660
+4718514	459	Alice Eve
+4724514	118	Rifampicin/isoniazid/pyrazinamide
+4736514	399	A. E. Seaman Mineral Museum
+4750514	333	List of newspapers in Florida
+4752514	24	List of political magazines
+4753514	195	Arena Leipzig
+4754514	1368	Ultra Panavision 70
+4771514	173	Siege of Izmail
+4783514	408	Florida State Road 884
+4788514	67	A Darker Shade of Evil
+4813514	3839	Nationalities and regions of Spain
+4823514	591	United Freedom Front
+4825514	637	Steve McNamara
+4830514	349	I Was Made to Love Her (song)
+4831514	11	List of United States Supreme Court cases, volume 50
+4835514	380	Run to the Sun
+4843514	1042	San Mart°n Base
+4856514	312	Peter Honess
+4862514	28	Lists of Australian rules football leagues
+4864514	2222	Ljudski vrt
+4881514	420	Alison Streeter
+4882514	1207	Remez algorithm
+4889514	107	Robert Alway
+4893514	356	Charles de la BÇdoyäre
+4905514	240	Sikinos
+4925514	192	Atlantic Records Group
+4930514	868	HMS Plumper (1848)
+4942514	403	Seema Biswas
+4943514	119	Sylvia Gosse
+4945514	67	Live at the Palace Theatre
+4954514	145	Guarianthe
+4962514	84	Bulletin of the Chemical Society of Japan
+4969514	50	Warken
+4973514	163	Estadio Saroldi
+4977514	1073	Phunk Junkeez
+4981514	28	Bollendorf-Pont
+5000514	59	John Eden
+5017514	69	Universe (EP)
+5018514	35	William Crooks
+5022514	116	Granvinsvatnet
+5047514	153	Polo-Cockta
+5061514	556	Cruciate ligament
+5079514	17	Paul Kahn (rugby league)
+5080514	1516	Digital radiography
+5087514	256	List of highways numbered 40
+5106514	2193	Twilight Imperium
+5113514	527	Albert Galloway Keller
+5115514	692	List of MeSH codes (N05)
+5117514	557	Michael Dokken
+5121514	442	Eugenio Mendoza
+5126514	21	Zephyr cloth
+5160514	59	Seohyeon Station
+5168514	217	Devyani Chaubal
+5173514	891	Maurice Prather
+5186514	844	Steve Cartwright
+5195514	1220	Westdale Mall
+5208514	153	Jack Emery
+5220514	286	Giant peccary
+5238514	122	Zonked/Ain't It Fun
+5244514	1061	Rock Star Supernova
+5246514	938	Pattiyal
+5251514	525	Heat of formation group additivity
+5257514	74	Denham Island
+5259514	124	KysuckÇ NovÇ Mesto District
+5265514	298	Thunder Bay Island
+5279514	323	Dagmar Midcap
+5282514	105	ITL MARS
+5290514	211	Elihu Spencer
+5292514	356	Patrona Halil
+5295514	1290	The Vikings (1958 film)
+5297514	43	Lisy Island
+5299514	152	Indian Creek (Cobbs Creek)
+5307514	63	$500
+5322514	56	The British School, Panchkula
+5323514	456	Blue Lacy
+5325514	40	Gluvian
+5332514	3389	Les Aspin
+5333514	129	2644 Victor Jara
+5339514	278	Keyingham
+5348514	90	Ali Suliman
+5353514	211	Germering
+5358514	273	This Little Empire
+5365514	1682	Michael Muhammad Knight
+5413514	11	List of Members of the Canadian House of Commons with military service (A)
+5420514	154	Beltempest
+5425514	430	Consort Chen Farong
+5427514	208	Boy, Did I Get a Wrong Number!
+5432514	1102	Dayananda Sagar College of Engineering
+5434514	46	Tachibana clan
+5454514	140	Al Wiman
+5466514	179	Joseph M. Gaydos
+5470514	637	Pita Alatini
+5472514	166	Chlamydia muridarum
+5487514	110	Diarra
+5488514	929	North Medford High School
+5497514	77	Cimbicidae
+5506514	338	S-300VM
+5512514	2865	WMD conjecture in the aftermath of the 2003 invasion of Iraq
+5514514	103	Type 89 torpedo
+5524514	445	Memoirs of a Survivor
+5548514	23	Pilot Grove
+5549514	399	Baz Warne
+5554514	148	That Girl (Stevie Wonder song)
+5564514	689	Andrea Brustolon
+5565514	440	Chalco de D°az Covarrubias
+5566514	769	Hannibal and St. Joseph Railroad
+5569514	735	Corruptor (comics)
+5571514	240	Sultan Alam Shah Museum
+5574514	974	History of Guadeloupe
+5575514	1713	Arca di San Domenico
+5585514	118	Elio De Anna
+5593514	509	The Goose-Girl at the Well
+5601514	45	Bad DÅrrheim
+5607514	138	Karl J. Sleight
+5631514	130	Carolyn Omine
+5635514	298	Eatin' Dust
+5637514	305	List of airports in Oklahoma
+5643514	75	ESPN PPV
+5650514	334	Lac Seul
+5652514	150	Pequawket Brook
+5654514	382	James Butler, 5th Earl of Ormond
+5658514	444	Society for Pentecostal Studies
+5667514	430	Darrington, West Yorkshire
+5672514	448	Przemyslaw Kazmierczak
+5678514	417	Decadent movement
+5685514	282	Michael Rispoli
+5687514	248	Key West Historic District
+5697514	396	John Schenck
+5701514	146	Kaur Kender
+5708514	472	Basukinath
+5710514	211	Birnagar
+5712514	4760	Banksia sessilis
+5719514	89	Buurmalsen
+5720514	22	Rick Hansen Secondary School
+5733514	1277	July 2006 in rail transport
+5752514	274	Laser lithotripsy
+5761514	166	Matti Kurki
+5763514	50	KMRB
+5768514	288	BitPim
+5779514	830	Bobby Sippio
+5786514	49	Marcin Wolski
+5793514	529	Kelefa Sanneh
+5799514	98	Sainte-Jeanne-d'Arc, Saguenay-Lac-Saint-Jean, Quebec
+5800514	79	Majhara Pipar Ehatmali
+5801514	287	1980 US Open (tennis)
+5802514	498	The Grid (TV miniseries)
+5806514	836	Prime Network
+5811514	270	Timiri
+5815514	36	Adam Rogacki
+5822514	325	Shrewsbury (Camp Parapet) Cemetery
+5852514	89	Chadan (town)
+5858514	1952	Battle of Vyborg Bay (1790)
+5863514	21	Camanongue
+5888514	357	Joris of the Rock
+5906514	585	Moonlight Bay
+5929514	365	Nels Jacobson
+5935514	243	Keselo
+5942514	70	Eugäne Richez
+5945514	145	Yair
+5946514	294	Pietro Accardi
+5947514	146	The Common Law
+5955514	344	Fled
+5962514	318	Aaron Lawrence (footballer)
+5963514	310	Massimo Bonanni
+5965514	49	Schumacher (footballer)
+5967514	25	Chiaravalle Centrale
+5971514	1077	Buddy Young
+5981514	377	Standing Buddha
+5986514	53	1904-05 Belgian First Division
+5988514	20	Khîkh morit, Govi-Altai
+5994514	59	Roggenwolf (company)
+5999514	71	Donnie Stone
+6008514	118	Chop suey (disambiguation)
+6021514	248	Abdim's stork
+6032514	379	Vaccinium parvifolium
+6037514	369	Vicente Palacios
+6064514	326	St Peter's College, Palmerston North
+6068514	72	Akali
+6069514	12	Microstoma
+6070514	586	Haderslevhus
+6074514	803	Gee Cross
+6083514	1703	Jon Fitch
+6091514	727	David de Sola Pool
+6095514	4947	List of Old Newingtonians
+6110514	1500	RM-ODP
+6115514	250	Connacht Senior League (rugby union)
+6119514	514	The Family Markowitz
+6139514	500	Battle of Ban Dong
+6145514	799	Paul Burns
+6154514	6	Rigwnai
+6157514	1111	Lorin C. Woolley
+6161514	344	Orfeas
+6175514	275	Crankworx
+6193514	899	Clint Longley
+6196514	649	Gene Miles
+6202514	269	Santa Monica Mirror
+6211514	124	Valenzano, Italy
+6217514	1618	Rat Attack!
+6244514	386	Rattlesnake Point (Canada)
+6265514	806	Fleming Island, Florida
+6272514	325	Putsborough
+6274514	286	Berissa
+6293514	36	1998 World Junior Championships in Athletics
+6297514	1388	Les Hauts-Geneveys
+6300514	274	Kevin Miller (footballer)
+6309514	135	Safarali Kenjayev
+6317514	212	Cantellation (geometry)
+6328514	145	Ginger Hotels
+6352514	1319	Roz Savage
+6358514	28	Nicaria
+6369514	252	FIS Nordic World Ski Championships 1991
+6390514	207	Be Near Me
+6391514	260	Center for the Promotion of Imports
+6398514	246	Runnymede Theatre
+6406514	98	Sign of the Winner
+6419514	1725	Hell Comes to Quahog
+6431514	1468	Virginia Astley
+6432514	594	Theoretical key
+6444514	941	Council Rock High School North
+6460514	1197	Mar°a Luisa Bemberg
+6463514	208	MÇlanie (album)
+6478514	36	Chianocco
+6516514	33	Montaigut-le-Blanc, Puy-de-Dìme
+6517514	255	UFC 30
+6521514	19	Carrä
+6527514	196	Rafael Bournigal
+6529514	416	Vaseegara (film)
+6530514	649	Associated Independent Colleges
+6539514	224	John Alexander Macdonald (Prince Edward Island politician)
+6557514	296	Calliano, Piedmont
+6598514	38	Sattler's layer
+6637514	1296	South Muskoka Shield
+6645514	99	AS de Vacoas-Phoenix
+6647514	356	Lafayette Park, Detroit
+6659514	1120	Yuan Yong
+6670514	191	Cathedral of Our Lady of the Assumption, Mata-Utu
+6675514	301	BT postcode area
+6696514	521	Kansas in the American Civil War
+6698514	642	Tonto Trail
+6700514	171	William J. Winslade
+6703514	59	Lentate sul Seveso
+6706514	285	Albaredo Arnaboldi
+6712514	128	List of diplomatic missions of Kyrgyzstan
+6715514	286	Love Don't Let Me Go (Walking Away)
+6717514	55	Teolo
+6718514	297	Enemonzo
+6734514	1193	Upper Arlington High School (Ohio)
+6737514	16	S†sa, Zvolen District
+6745514	181	South Teton
+6756514	69	Galapagos Microplate
+6769514	394	Tennis ball cricket
+6770514	131	George O'Brien (footballer)
+6773514	74	Gary Freeman (basketball)
+6780514	832	Venue (magazine)
+6781514	1687	2010 FIBA World Championship
+6783514	145	Bluefaced Leicester
+6785514	28	Pandosia
+6789514	160	Comprehensive high school
+6792514	86	Porn¢ap†ti
+6793514	109	Fuori Dal Mondo
+6794514	523	Dearest Christian, I'm So Very Sorry for Bringing You Here. Love, Dad
+6812514	132	Oregon's 1st congressional district
+6826514	161	Wark on Tweed
+6828514	17	Red three-striped opossum
+6829514	313	Barry M. Goldwater Scholarship
+6831514	173	Raj Chouhan
+6840514	192	Centre Bridge, Pennsylvania
+6859514	1128	John Tennyson
+6860514	479	California Graduate Institute
+6876514	38	Fred Fagg
+6879514	723	Detana!! TwinBee
+6888514	990	Order of Battle for Battle of South Guangxi
+6897514	203	Stanislav Gustavovich Strumilin
+6904514	38	MGC8902
+6918514	1009	Harrisburg State Hospital
+6930514	59	Claybord
+6931514	330	Faerieworlds
+6932514	60	Archaeology (magazine)
+6934514	22	Pierre Planus
+6941514	462	Hobart Devils
+6945514	201	The High Windows
+6953514	438	Olive oropendola
+6979514	484	Love Is the Law (Toyah album)
+6985514	1281	Hilda Suarez
+6987514	188	Enrique Alfaro
+6989514	98	Never Make a Promise
+6991514	460	Les Girls
+7001514	118	SlanskÇ NovÇ Mesto
+7006514	493	The Barkleys
+7014514	96	Dutch Zoo Federation
+7018514	618	First Strike Coins
+7019514	195	For the Lady
+7024514	290	North Florida Christian High School
+7033514	24	Kailash Nath Singh Yadav
+7042514	1452	Edinson Volquez
+7058514	68	Monterrubio de la Sierra
+7078514	69	Anvil Press Poetry
+7102514	144	New Plastic Ideas
+7106514	118	Meredith Colket
+7116514	88	Masonic Temple (Jacksonville)
+7139514	663	Charles Gaines
+7152514	42	Old Philadelphia Presbyterian Church
+7154514	37	Jabir (name)
+7161514	42	Madhusudhan Reddy Takkala
+7165514	758	Communications server
+7168514	118	List of United Kingdom Parliament constituencies (1983-97) by region
+7179514	146	Roy Davis, Jr.
+7207514	574	Mark Coffin, U.S.S.
+7211514	108	George Goulding
+7212514	270	Branch Bocock
+7219514	63	Jack Oosterlaak
+7224514	644	Rebecca Lowe
+7226514	938	Hotu Matu'a
+7231514	729	Sum 41 discography
+7239514	758	Byrd v. Blue Ridge Rural Electric Cooperative, Inc.
+7241514	155	Happy Cactus
+7242514	286	Judy Green (socialite)
+7245514	277	Leonard Lerman
+7251514	70	Carrizal
+7269514	383	Vamsi (film)
+7300514	31	Jewett-Thompson House
+7311514	219	Eric Steinberg
+7332514	30	Wayatinah Power Station
+7357514	195	George-FrÇdÇric-ThÇophile BaillairgÇ
+7366514	41	Smart Crosstown
+7369514	240	Bear Lake State Park (Utah)
+7375514	1004	Synaptotropic hypothesis
+7403514	323	Connecticut Route 150
+7410514	266	Meru North District
+7416514	72	Philharmonic Hall
+7418514	2267	Gao Cheng
+7420514	185	Camp Namanu
+7424514	1437	Greeks Bearing Gifts (Torchwood)
+7431514	230	Austria at the 1924 Summer Olympics
+7432514	428	Italy at the 1936 Winter Olympics
+7435514	119	List of highways numbered 294
+7437514	537	Nes Harim
+7438514	350	Statute of Autonomy of Catalonia of 1979
+7440514	344	Tokyo Metropolitan Museum of Photography
+7443514	98	Namyang Workers' District
+7450514	151	Minnesota State Highway 247
+7454514	62	Robert Pollard (American football)
+7457514	39	Mathematische Zeitschrift
+7474514	197	Babar Ahmed (director)
+7496514	733	Lynx (comics)
+7506514	74	HMS Sandringham (M2791)
+7514514	96	Bigoli
+7527514	150	No Depression in Heaven
+7532514	68	Socks Glacier
+7567514	80	Natalya Ivanova (athlete)
+7570514	549	Thomas K. Finletter
+7586514	726	Michael Thonet
+7599514	429	East Timor Women Australia
+7604514	445	Larry Johnston
+7623514	573	Peter Carlesimo
+7637514	563	Aftermath (1994 film)
+7665514	1538	Etel Adnan
+7682514	72	Agia Paraskevi, Chalkidiki
+7686514	944	Henry Vincent Hubbard
+7690514	353	Jack Spring
+7706514	239	St. Augustine's College, Yarraville
+7717514	523	United States House Appropriations Subcommittee on Energy and Water Development
+7718514	89	Al Yarmuk Al Rawda
+7721514	90	Suleyman al-Boustani
+7733514	394	Psychosis (disambiguation)
+7735514	456	Hong Kong-Shenzhen Western Corridor
+7739514	249	Have Dreams, Will Travel
+7764514	128	Directorate-General for Interpretation (European Commission)
+7769514	20	Vertically challenged
+7793514	741	Slovak order of battle in 1939
+7812514	198	Ranmore Common
+7816514	37	Sebastiaan Steur
+7828514	116	Teater Tribunalen
+7839514	14	F2008
+7854514	423	Andri Snër Magnason
+7857514	380	Horse of a Different Color (Big &amp; Rich album)
+7865514	47	Rodolphus
+7872514	1525	1940 in poetry
+7874514	1179	Clinical Practice Research Datalink
+7877514	195	NTCA Ground
+7903514	160	Ageratum conyzoides
+7911514	309	Cross That Line
+7916514	118	Mike McCormack (writer)
+7917514	365	The Right Person
+7920514	820	William M. Blair
+7936514	916	Inigo Campioni
+7948514	246	Russell Gewirtz
+7951514	379	Charles Rich (U.S. Representative)
+7965514	330	Framework
+7967514	23	Franciscan Friary, Baja
+7974514	47	Dombiratos
+7982514	49	KÇtsoprony
+7985514	132	Outline of biotechnology
+7986514	455	Odakyu Tama Line
+7992514	604	555 Mission Street
+8001514	504	Rolando Hinojosa
+8010514	128	We Like to Rock
+8011514	1158	List of J. League players from CONMEBOL
+8016514	86	Totenlieder
+8017514	432	List of Ashtabula County covered bridges
+8019514	1170	Ant¢nio Dacosta
+8030514	115	Jonathan Guy Lewis
+8031514	91	Unicorn grenadier
+8035514	74	The Beatific Visions
+8055514	63	WSR-1
+8061514	1542	USS Bolivar (APA-34)
+8073514	722	Edith Haisman
+8086514	389	ACCAS
+8094514	35	Banat-i Hill
+8114514	85	Viktor Rashchupkin
+8123514	596	Conrad of Parzham
+8127514	11	Eaglesham (South) Aerodrome
+8130514	503	Central Arkansas Christian Schools
+8139514	434	Kenneth L. Tallman
+8145514	906	Ricardo Prado
+8165514	1022	Better Off Alone (Alice DeeJay song)
+8173514	198	Mark Derr
+8177514	98	Islam in the Cocos (Keeling) Islands
+8182514	739	Christopher Sykes (author)
+8193514	261	LÅbeck (disambiguation)
+8195514	250	Square-up
+8198514	7	T†pi¢szele
+8206514	270	Peque§as anÇcdotas sobre las instituciones
+8207514	309	Bay County Library System
+8214514	731	Empress Shen Miaorong
+8219514	40	Mohammad Firouzi
+8235514	733	Rlinda Kett
+8236514	25	Olivia Pascal
+8258514	1400	Peevyhouse v. Garland Coal &amp; Mining Co.
+8261514	82	Ayako Nakano (dancer)
+8263514	837	Durham House (London)
+8278514	120	Horse Opera (album)
+8297514	124	Live and Sleazy
+8305514	113	Hern†n Losada
+8321514	404	Dave Aspden
+8343514	1755	House of Pomerania
+8353514	82	Alabama State Route 212
+8354514	58	Jacques Carette
+8356514	26	Maximum safe storage temperature
+8359514	578	Sancha of Aragon
+8366514	649	Susan and God
+8380514	4609	Thermometric titration
+8385514	177	Barnstaple Castle
+8446514	12	SBCT
+8459514	212	Cricot 2
+8485514	3469	Stargate Universe
+8534514	352	George Tomasini
+8554514	160	George Baptist
+8559514	249	Eliezer ben Solomon Ashkenazi
+8567514	245	White Sands Space Harbor
+8571514	26	Zhetysu Stadium
+8584514	197	Dave Brown (1900s athlete)
+8587514	191	Archiva Vol. 2
+8600514	154	Chaubunagungamaug Reservation
+8609514	852	Stavne-Leangen Line
+8617514	137	1959 NFL Championship Game
+8619514	81	Samuel Castel†n Marini
+8644514	491	Laurie London
+8648514	40	Riverside Elementary School
+8651514	147	Anuradhapura massacre
+8658514	452	Rada Rassimov
+8700514	46	List of streetcar lines in Staten Island
+8720514	46	Lenti
+8727514	353	GERB
+8736514	398	1828 in poetry
+8754514	63	Public holidays in Transnistria
+8755514	307	A Walk Around the Hotel Courtyard, Acatlan
+8756514	252	Frank Campanella
+8758514	596	Florida AFL-CIO
+8761514	5414	1400-1500 in European fashion
+8771514	28	Pfaffen Saddle
+8801514	495	Woodruff Career and Technical Center
+8817514	177	Alma Park, New South Wales
+8828514	279	Chasing Shadows (album)
+8837514	34	LUN
+8842514	388	Edward Mortelmans
+8857514	32	David Dennison
+8902514	29	Waplington
+8916514	77	Karl Limper Geology Museum
+8923514	311	Fabio Zerpa
+8934514	114	Sontheim
+8935514	60	Love Never Dies (1955 film)
+8936514	43	Dahlerau
+8949514	70	Meet the Hollowheads
+8961514	104	Ian Mendes
+8973514	16	Badhadhe District
+8978514	5434	Dentistry throughout the world
+8981514	459	Familial atrial fibrillation
+8988514	133	Pierre Borel
+9005514	532	Bucca (mythological creature)
+9008514	7	List of minor planets/11501-11600
+9022514	35	Francis M. Wood Alternative High School
+9032514	102	Pincevent
+9035514	557	Mar°lia Pàra
+9036514	223	Simplicity Pattern
+9047514	119	Game Wars
+9050514	495	Anadish Pal
+9077514	176	Pillan
+9085514	103	List of airports in Seychelles
+9089514	102	Kamghe Gaba
+9091514	427	Predil Pass
+9097514	87	Tetsuya Kiyonari
+9110514	41	The Beacon Foundation
+9138514	100	Jamie Fenton
+9150514	324	Muscatine Community School District
+9151514	282	
+9165514	52	Houtrijk en Polanen
+9250514	80	Menouthis
+9262514	26	List of Theta Chi members
+9274514	467	Uluguru Mountains
+9279514	357	Dan K. Morhaim
+9339514	58	First Restoration
+9356514	239	TV3 (Norway)
+9360514	45	Lake Region High School (Maine)
+9379514	1237	Abraham Walkowitz
+9406514	123	Onakatomi no Yoshinobu
+9410514	243	Norwich Township, Franklin County, Ohio
+9428514	10	Ismoil Somoni
+9448514	184	Labelle (provincial electoral district)
+9463514	278	Peter Keen
+9465514	36	Nick Rogers (sailor)
+9469514	104	Raggasonic
+9478514	8	Arnar J¢nsson
+9489514	165	Paul Durham
+9493514	155	Daudkandi Upazila
+9500514	307	Kore &amp; Skalp
+9505514	242	Foreground-background
+9561514	167	Broadway Metrolink station
+9606514	95	Roslyn Bush
+9609514	11	Muirabad
+9631514	86	Kiril Ivkov
+9646514	38	Bjarne Petersen
+9655514	500	Barium chlorate
+9673514	101	Sandy Bonsib
+9675514	222	List of United States Supreme Court cases, volume 405
+9683514	317	Oliver H. Kelley Homestead
+9685514	339	Solomon, ex-Lambert Stradivarius
+9691514	631	Special Assignment (Captain Scarlet)
+9693514	83	HMS Umpire
+9694514	19	The Newsie and the Lady
+9716514	235	Mark Warnow
+9719514	42	Garruchos
+9732514	90	Arjun Malhotra
+9747514	1135	Maryland Transportation Authority Police
+9749514	64	Wasteland (Atargatis album)
+9750514	699	Edward Lee Greene
+9751514	172	Swan mussel
+9753514	1037	Saint Amaro
+9766514	661	William Jethro Brown
+9768514	130	Jainad
+9781514	139	Gina Tuttle
+9813514	108	Charlie Smith (Romani poet)
+9830514	23	SÇbastien Gondouin
+9850514	851	Mark Hopkins (educator)
+9868514	200	John Givens
+9877514	61	Chilorio
+9902514	1239	Por Estas Calles
+9908514	60	Bobby Irons
+9910514	575	Abe Okpik
+9914514	39	Stone Horizons
+9921514	1234	Ross Ohlendorf
+9932514	593	Maid to Order
+9936514	358	Anna Lo
+9971514	117	Gisela Beyer
+9972514	539	Arvid Mîrne
+9978514	280	Captain Phoebus
+9991514	59	Ralph Avenue Line
+10001514	124	Sidcot Swallet
+10018514	547	Handsome (Kilburn and the High-Roads album)
+10027514	266	KAWO
+10032514	1627	List of United States Navy Landing Craft Infantry (LCI)
+10035514	1178	Intimate partner violence
+10037514	227	Al-Tro Island Park
+10041514	70	Faruk Buljubasic
+10042514	405	Archie J. Bahm
+10075514	29	Weitramsdorf
+10090514	28	Cape Bystrova
+10094514	477	De Alva S. Alexander
+10104514	289	FÇlix de MÇrode
+10120514	933	2007 United States Grand Prix
+10131514	441	Rimburg
+10135514	1159	Leandro Bisiach
+10147514	197	Carl Alberg
+10159514	690	Mauritius national rugby union team
+10164514	1555	Alejandro Zaera-Polo
+10178514	273	Sedgley Urban District
+10182514	1293	Sparkford
+10190514	112	Live in Gottingen
+10219514	593	Oyster festival
+10223514	490	The Cookies
+10224514	194	Marina Denikina
+10254514	1001	A-level
+10259514	474	Bruce Gardiner
+10304514	73	Tom Sands
+10342514	42	Country wine
+10344514	572	Margarete Dessoff
+10374514	303	I as in Icarus
+10420514	1129	Belorussian Military District
+10471514	772	James Birrell
+10476514	1986	Application delivery network
+10492514	441	Derinkuyu Underground City
+10519514	244	Singing News Fan Awards for Favorite Baritone
+10539514	280	Santiago Peak
+10541514	370	High Heels and Low Lifes
+10552514	614	Faxton
+10553514	74	Dysembryoplastic neuroepithelial tumour
+10570514	166	Travelin' Man
+10609514	95	Al-Suqaylabiyah
+10620514	43	Ride Like Hell
+10640514	116	Geet
+10656514	171	Regional Security Office
+10672514	1181	Mark Hudson (footballer, born 1982)
+10686514	47	SIS (motorbikes)
+10699514	201	The Dials
+10713514	198	Case Management Society of America
+10717514	13	Osmostat
+10723514	255	Foreste Casentinesi, Monte Falterona, Campigna National Park
+10743514	275	Damiano Mazza
+10756514	287	Meshchansky District
+10758514	380	Devlin (TV series)
+10769514	2159	Residente o Visitante
+10771514	204	Amanush
+10774514	160	Cornelio Vel†squez
+10862514	262	Oan Schylge
+10863514	2347	Pierre Jean Robiquet
+10868514	118	OPI
+10894514	278	Paul Friedmann
+10900514	65	The Argyle E.P.
+10907514	146	Liberty Plains Parish, Cumberland
+10913514	2058	Amritlal Nagar
+10916514	173	Sam Lee (tennis)
+10932514	197	Dominant Species (video game)
+10948514	3217	History of Bournemouth
+10959514	639	Kate Shaw
+10975514	48	J. P. Piper
+10982514	233	Sylvain Gaudreault
+10983514	420	Tom Hunter (artist)
+10986514	1099	Pierre Reid
+10997514	175	Bank of Bombay
+11012514	449	Offham, Kent
+11034514	1038	Julia Thornton
+11047514	35	Meridian Woods Park
+11074514	239	2007-08 in Welsh football
+11075514	450	List of largest European law firms 2005
+11078514	403	NBA Live Legend All-Stars Teams
+11100514	655	Any Love (Misia song)
+11123514	359	1:35 scale
+11138514	138	List of Peruvian artists
+11140514	452	Sathi Leelavathi (1995 film)
+11152514	54	WXK26
+11160514	194	Windsor Park, Calgary
+11163514	1091	St. Wenceslaus Church
+11180514	138	Saskatchewan Highway 55
+11185514	388	Jahanabad
+11210514	30	Cucupha
+11269514	262	Free City (album)
+11274514	24	Jeno (village)
+11289514	1541	Lesser Antillean macaw
+11297514	71	Henri Martin (politician)
+11304514	3914	Physical organic chemistry
+11307514	28	Athpare language
+11309514	104	Theodore A. Peyser
+11310514	271	Derek Ross
+11336514	1163	Old Market, Bristol
+11341514	429	Michael Mullan
+11342514	1104	2007-08 Dundee United F.C. season
+11360514	281	Ellina Graypel
+11364514	1872	Lord of the Rings (musical)
+11372514	2068	Yang Yuanqing
+11375514	439	Sculptures in the Schînbrunn Garden
+11376514	28	Michelau
+11391514	71	Naoko Hayashiba
+11395514	269	MEROPS
+11420514	270	Enio Sclisizzi
+11421514	72	SL1 RNA
+11427514	1322	Vienna Hyatt
+11435514	77	Central Division (New South Wales)
+11438514	453	Analog device
+11440514	44	Gliese 849
+11441514	51	Tennessee State Route 265
+11455514	127	Think I'm in Love (Eddie Money song)
+11460514	12	Stemphylium bolickii
+11463514	291	Traditional crafts of Assam
+11466514	8	Pythium hypogynum
+11484514	422	Saul Isaac Kaempf
+11499514	859	Laurent Cleenewerck
+11505514	240	Miami (Izzy Stradlin album)
+11538514	626	Alexander Kolowrat
+11555514	575	1st Free French Division
+11558514	285	Charm Osathanond
+11563514	97	Cystadenocarcinoma
+11569514	85	List of Gabonese films
+11574514	40	List of Chinese films of the 1950s
+11586514	192	James R. Campbell
+11595514	449	William A. Ekwall
+11605514	45	Convergent flow
+11618514	68	Tour EP (Band of Horses EP)
+11632514	850	Joe Dillon
+11637514	580	Defence Fire and Rescue Service
+11643514	180	Walnut Marketing Board
+11646514	436	Hollyford Valley
+11664514	675	1979 Seattle Mariners season
+11677514	25	James Saunders
+11698514	177	Port-Saint-Louis-du-Rhìne
+11699514	482	12:01 (1993 film)
+11709514	127	Hortob†gyi palacsinta
+11728514	150	Huanren frog
+11730514	207	Centre of Norway
+11732514	332	Hamed Modibo Diallo
+11738514	420	List of programs broadcast by Create
+11751514	580	Eli Noam
+11755514	354	Paul Stewart (politician)
+11769514	60	Bobby Freeman (American football)
+11771514	120	Breathe (Nickelback song)
+11774514	27	Ippolito Galantini
+11781514	139	Law enforcement in Honduras
+11782514	123	Me?i?e Nirdamim
+11790514	301	List of United States presidential electors from North Dakota
+11793514	38	William Bowers (disambiguation)
+11802514	261	Thelypodium howellii
+11816514	13	Huy of Champasak
+11849514	352	Tobiah (Ammonite)
+11854514	75	Party for a European Future
+11877514	359	Dead Planet
+11913514	52	The Joint
+11920514	56	Jack Lawrence (cricketer)
+11936514	41	Otay Ranch Town Center
+11941514	510	Heavens Cafe
+11943514	40	Huang Wen-Po
+11947514	155	Charles L. Faust
+11948514	201	Seth Wallace Cobb
+11960514	569	Harrison P. Young House
+11969514	19	Gilten
+11975514	9	Paolo Bianchessi
+11980514	113	Mike Siklenka
+11982514	509	Barlow Endowment
+12005514	1554	Oi Nuclear Power Plant
+12015514	705	Teases &amp; Dares
+12020514	115	Poian
+12028514	1589	Evie Sands
+12033514	1479	SongBird
+12036514	44	Sat†n se divierte
+12041514	134	Robert Devenyi
+12055514	1316	U.S. Route 13 in Pennsylvania
+12100514	1192	The Fury (album)
+12118514	51	List of monastic houses on the Isle of Wight
+12122514	236	Eastern Conference (PIHA)
+12134514	129	List of libraries in Barnet
+12135514	78	Arie?ul Mic River
+12167514	99	Milivoje Cirkovic
+12168514	65	Desert pipistrelle
+12175514	41	Cameroon soft-furred mouse
+12176514	40	Marie's vole
+12183514	484	Barbus altianalis
+12184514	28	Ewaso Nyiro labeo
+12188514	160	Canon law (Church of England)
+12190514	62	Formalities
+12201514	90	Rezaul Islam
+12204514	36	SogÇa FC
+12210514	1259	176 (Abu Klea) Battery Royal Artillery
+12231514	72	Bhajantrilu
+12241514	149	Das 2. Gebot
+12250514	542	Edendork St. Malachy's GAC
+12253514	140	Rock Lake Provincial Park
+12267514	389	Mark Zakharov
+12269514	994	Angelica Schuyler Church
+12286514	1623	Water supply and sanitation in Jamaica
+12303514	225	ASB Tennis Centre
+12306514	92	Furness baronets
+12330514	299	Petre Gruzinsky
+12340514	132	Baptist beliefs
+12350514	39	Farsetia inconspicua
+12354514	812	Rasa von Werder
+12355514	320	Takano Choei
+12370514	98	Constance of Toulouse
+12372514	49	Exerodonta pinorum
+12404514	119	Idaho gubernatorial election, 2002
+12439514	12	Galesburg City
+12452514	35	Bare-headed laughingthrush
+12459514	88	National Cancer Research Network
+12460514	17	Luigi Mocenigo
+12463514	421	Carolinas Medical Center-NorthEast
+12465514	172	Myrmotherula
+12466514	39	Orange-tufted sunbird
+12470514	148	Brown parrotbill
+12489514	52	Striated yuhina
+12492514	49	Red-rumped tinkerbird
+12516514	33	Calcochloris
+12519514	197	Australia national speedway team
+12522514	59	Hardar saga ok H¢lmverja
+12534514	491	T'ai chi classics
+12536514	22	Heterodera elachista
+12538514	48	Don Kirkwood
+12551514	65	John Olufemi
+12553514	215	List of urban tram networks in Germany
+12554514	752	List of In the Groove musicians
+12556514	78	Shin Megami Tensei: NINE
+12559514	373	Ellis D Fogg
+12562514	202	Feng Xu
+12563514	438	John Marsh (composer)
+12566514	359	1939 Philadelphia Athletics season
+12580514	87	Modeling chocolate
+12593514	167	Caisa (instrument)
+12598514	77	Spotback skate
+12610514	56	HMS Powerful (1783)
+12612514	753	Miley Cyrus discography
+12624514	32	Synodontis ruandae
+12649514	531	Jeff MacMillan
+12666514	26	Stenotrema hubrichti
+12668514	178	Update (Jane Zhang album)
+12683514	74	Farm to Market Road 3405
+12700514	45	Cordulegaster helladica
+12704514	42	Neodythemis afra
+12722514	51	Mindstrip
+12728514	873	XII (1st Royal Saxon) Corps
+12739514	137	Sodium arsenate
+12759514	130	Raining on Sunday
+12763514	2473	Huta Pieniacka massacre
+12777514	192	Fred Davis (politician)
+12779514	160	National Route 118 (Argentina)
+12780514	27	Bishop Kinkell
+12785514	320	Sleipner gas field
+12789514	13	Ardnadam
+12810514	46	Rabe (Novi Knezevac)
+12819514	27	Terizidone
+12821514	361	Gregory Gillespie
+12822514	90	Rose Windross
+12825514	163	Jade (game engine)
+12846514	194	Manomet Center for Conservation Sciences
+12848514	711	The Gore Gore Girls
+12854514	8	PÉrlita River (Taita)
+12857514	21	Aphanamixis cumingiana
+12869514	51	Southwest Aceh Regency
+12870514	19	Canarium whitei
+12878514	181	Social Democratic Youth (Finland)
+12879514	50	Grammitis recondita
+12881514	768	Hermetray
+12887514	29	Horsfieldia reticulata
+12895514	29	Manettia lilacina
+12907514	51	Polybotrya andina
+12917514	8	Valea Capitanului River
+12919514	126	Deer Creek Open
+12921514	45	JosÇ Villamar°n
+12922514	717	Hughes/Thrall
+12924514	27	Vepris arushensis
+12932514	659	Astis
+12959514	9	Seiwerath
+12965514	43	Mikl¢s Kovacsics
+12984514	339	Postpaid mobile phone
+12990514	88	Brigantine Lighthouse
+13033514	486	Porthoustock
+13041514	333	Neocatastrophism
+13051514	236	Publius Valerius Comazon
+13077514	10	Billigheim-Ingenheim
+13079514	373	USS Mettawee (AOG-17)
+13089514	772	House of Gurieli
+13101514	25	Fonville, North Carolina
+13112514	19	Denefrith
+13119514	87	PÑr-Erik Back
+13127514	142	Earl Kunz
+13129514	273	Rodolphe Forget
+13140514	244	Pomorje
+13144514	28	San Mart°n de Pusa
+13147514	101	London Buses route 303
+13159514	72	Espinosa de Cervera
+13170514	26	Almohaja
+13174514	131	Bermillo de Sayago
+13177514	525	Peyton M. Magruder
+13178514	212	Sum of absolute transformed differences
+13191514	19	Michael Davison
+13231514	461	Bunny Larkin
+13248514	24	Eggenstedt
+13249514	1587	Dreaming Out Loud (OneRepublic album)
+13251514	93	United Nations Security Council Resolution 179
+13252514	113	Simon Smith and the Amazing Dancing Bear
+13259514	186	Elijah Otieno
+13279514	633	Phaguwala
+13281514	436	Eddie Miller (songwriter)
+13282514	11	Sàbrong
+13290514	63	The End (Groove Coverage song)
+13295514	190	KMSR
+13314514	12	Goldbeck
+13315514	280	Design technology
+13387514	18	Canton of BÇthune-Nord
+13399514	265	George Brookes
+13400514	35	Kuroshima
+13415514	476	List of people from Rotterdam
+13437514	31	John Forbes-Robertson
+13440514	243	Pariguz
+13454514	309	Ryszard Bakst
+13475514	48	Marios Christodoulou
+13476514	12	Lindewitt
+13515514	1061	George Eld
+13533514	426	Christopher Hales
+13537514	22	Tegkwitz
+13542514	28	Patrick Darcy
+13552514	105	Icelandic Basketball Federation
+13557514	139	Illinois Baptist State Association
+13558514	403	Midlands Region, Ireland
+13566514	365	Lily (album)
+13583514	127	NetworkComputer
+13622514	375	Traditional Cambodian musical instruments
+13628514	851	Access token
+13641514	173	Japan women's national field hockey team
+13645514	34	Tidal river (disambiguation)
+13646514	70	Eugen Lunde
+13663514	43	Jinggangshan
+13678514	34	Noratus cemetery
+13716514	40	Pyrrha (disambiguation)
+13717514	471	Hartland landfill
+13720514	50	Tatsuharu Mawatari
+13726514	146	Emiliano Pedrozo
+13734514	60	Kappa Lyrae
+13738514	28	Sebold
+13749514	74	Center Township, LaPorte County, Indiana
+13772514	305	Bob Drogin
+13776514	71	Alturas Indian Rancheria
+13779514	68	1150 Achaia
+13786514	64	Hirotaka Ishihara
+13807514	63	Japan National Route 174
+13821514	133	James Belich (mayor)
+13840514	111	James Porter (representative)
+13855514	141	Discovery Home and Health Southeast Asia
+13858514	375	Richard Winfrey
+13859514	139	Guido Ara
+13869514	777	A Defence of Poetry
+13874514	257	Center for Housing Policy
+13877514	1260	Prostitution in Spain
+13879514	405	Prostitution in Peru
+13890514	63	30 Hari Mencari Cinta
+13902514	426	Diana (given name)
+13909514	13	Frumu?elu River
+13929514	51	Katarina Beskow
+13937514	80	Magnus Johansen (politician)
+13938514	118	Joseph Staples
+13957514	814	Infanta Maria Cristina of Spain
+13988514	675	META-4
+13991514	292	WPPI
+14005514	1393	Jonathan Edward Caldwell
+14023514	119	Gianluca Musacci
+14028514	682	USS Sea Foam (1861)
+14035514	79	North Hill Marsh Pond
+14055514	86	Bernie Hartigan
+14067514	61	Marjanishvili Theater
+14074514	203	Finance Minister of the Palestinian National Authority
+14088514	263	Jelena Tinska
+14098514	61	Pasterka, Lower Silesian Voivodeship
+14100514	87	2003 FIA GT Donington 500km
+14101514	63	Avia Swidnik
+14107514	192	Al Nesser
+14130514	71	3-hydroxycyclohexanone dehydrogenase
+14150514	606	Hugh McCracken
+14172514	78	CLDN4
+14190514	517	Majid Samii
+14196514	383	National Association of Chicana and Chicano Studies
+14197514	38	Runnymede Council election, 2000
+14200514	118	Batlava Lake
+14202514	1203	1972 Miami Dolphins season
+14217514	63	Ribose isomerase
+14219514	1411	1985 in Argentine football (Nacional)
+14226514	887	Jessop Saville &amp; Company
+14236514	338	Ryan Dam
+14269514	133	Windy City Pace
+14273514	202	The Crackdown
+14275514	2041	List of The Sarah Jane Adventures items
+14286514	96	Breaker (reef)
+14288514	156	Podg¢rze (disambiguation)
+14301514	223	1810 in Wales
+14304514	648	Mid-engine, four-wheel-drive layout
+14358514	289	Beyond the Walls
+14363514	25	Wusu Sannoh
+14369514	769	Charles of Saxony, Duke of Courland
+14372514	217	Germano Vailati
+14382514	1275	Frank Barbour
+14400514	73	Cataratas del Iguaz£ International Airport
+14410514	280	Robin Bain
+14435514	62	Roman Catholic Diocese of Mbinga
+14437514	57	Ocora
+14455514	88	Dolichylphosphate-glucose phosphodiesterase
+14460514	10	Valea BÉtcii River
+14462514	329	USS Glaucus (1863)
+14483514	466	How Soccer Explains the World
+14488514	29	Medial olfactory stria
+14501514	120	1-aminocyclopropane-1-carboxylate deaminase
+14510514	746	Vanuatuan general election, 2008
+14512514	75	Ventilago
+14524514	253	Popular beat combo
+14534514	10	Ischnophylla
+14562514	227	Alon Harel
+14577514	77	Little Bloxwich
+14580514	978	Ultrasound energy
+14584514	153	List of engineering journals and magazines
+14590514	470	Suriyenthrathibodi
+14611514	304	Jan Beatty
+14639514	335	A Way of Life (album)
+14660514	17	Atzenbrugg
+14661514	38	LightningPaint
+14668514	199	King of Peace Episcopal Church (Kingsland, Georgia)
+14683514	297	Zombie College
+14689514	257	Elizabeth Baker
+14702514	290	Today's Man
+14707514	321	Airheart
+14710514	131	Heavy Hitz
+14724514	186	Epipubic bone
+14725514	498	Anaplastic lymphoma kinase
+14736514	159	Felix Stephens
+14737514	12	Vornholz
+14753514	359	Metropolitan Route 40, Melbourne
+14762514	30	Kosinowo, Lower Silesian Voivodeship
+14768514	247	Lutterworth Town A.F.C.
+14772514	134	Formica sanguinea
+14789514	460	Donald Jackson (calligrapher)
+14793514	215	The Sensations
+14797514	46	POMGNT1
+14800514	689	Kiyoseumi Takayuki
+14806514	39	Joan of Valois
+14832514	53	Rudnica
+14839514	39	Leszczyna
+14854514	9	BÉuca River
+14861514	229	Ingebrigt Vik
+14878514	13	AURKC
+14880514	14	OR51G1
+14881514	255	Barvikha
+14911514	137	Bitburg Middle School
+14915514	28	Fifth Down Game
+14921514	222	David John Dodds
+14927514	55	George Eastham, Sr.
+14947514	154	Piersciec
+14951514	316	Propaganda (desktop backgrounds)
+14971514	161	1968 Baltimore Colts season
+14983514	24	Pelican Island, Antigua and Barbuda
+14993514	112	KJLT-FM
+15024514	336	Seefeld (ZÅrich)
+15042514	107	Gmina Tuchomie
+15046514	943	Polish organized crime
+15073514	17	RCBTB1
+15078514	11	Arquäves
+15097514	22	Billy Fox
+15100514	169	Audiopeach
+15111514	458	Didier Awadi
+15144514	27	Kyain Seikgyi
+15159514	167	Sulfaguanidine
+15180514	47	Image Bukhan
+15182514	1212	Goscelin
+15186514	157	Parker (given name)
+15201514	14	Old Bargersville, Indiana
+15208514	36	Grossopterus
+15215514	23	KCNN1
+15218514	414	1994-95 Hartford Whalers season
+15227514	13	SCRN1
+15242514	49	Still Life (1974 film)
+15256514	71	Mavagoago District
+15293514	56	Dick Wardill
+15317514	65	Bornean bulbul
+15337514	39	Utricularia warmingii
+15339514	199	Andersen Consulting World Championship of Golf
+15346514	15	KIF5C
+15347514	28	Mladen Bartulovic
+15385514	41	WARV (AM)
+15390514	102	William F. Varney
+15396514	3184	Holmestrand-Vittingfoss Line
+15410514	498	USS Mountrail (APA-213)
+15416514	75	Lothar SchÑmer
+15419514	15	PIGB
+15450514	27	Leticia de Oyuela
+15453514	713	Ruska Roma
+15466514	427	VP-23
+15487514	118	SNCF Class BB 8500
+15495514	457	Ian Wright (illustrator)
+15496514	77	Theodore Roosevelt (disambiguation)
+15501514	31	Saint-SÇverin
+15519514	231	Michael of Synnada
+15533514	90	West Barsham, Norfolk
+15534514	45	Theorodokoi
+15538514	58	Jair Iglesias
+15543514	533	Shalimar, Lahore
+15560514	23	Herbert Stern
+15566514	28	Francisco Javier Gonz†lez (Mexican footballer)
+15569514	19	Essey, Cìte-d'Or
+15571514	19	Saint-Andeux
+15584514	98	Jewels of Gwahlur (collection)
+15587514	2324	Phil Keaggy discography
+15601514	177	Miguel Lerdo de Tejada (composer)
+15620514	45	Sakaki Station
+15644514	34	KILJ
+15689514	17	Quint-Fonsegrives
+15691514	10	Sainte-Gemme, Deux-Sävres
+15706514	1408	ChÉteauneuf-en-Thymerais
+15709514	214	FS Class E.491 and E.492
+15715514	387	Resende Nuclear Fuel Factory
+15721514	12	Michael Dann
+15736514	143	Ai no Bakayaro
+15753514	43	Uslava
+15771514	17	Achey
+15772514	33	KAAQ
+15786514	11	Coubon
+15787514	11	Magneux, Haute-Marne
+15788514	11	Neuvelle-läs-Voisey
+15791514	11	Camparan
+15794514	26	Granieu
+15803514	14	Le Leuy
+15805514	502	Max Thompson (footballer)
+15809514	11	PÇlussin
+15810514	116	ThouarÇ-sur-Loire
+15827514	93	Brenda, Arizona
+15840514	2186	Battle of Opis
+15872514	1286	Ni'lin
+15888514	11	Vaux-läs-Palameix
+15891514	403	Russ Flanagan
+15897514	64	Otter Creek (Tennessee)
+15900514	11	Saint-LÇger-de-Fougeret
+15902514	12	West-Cappel
+15911514	12	BÇthisy-Saint-Martin
+15912514	13	Anglure-sous-Dun
+15913514	25	Warcq
+15916514	11	FlÇchy
+15917514	11	Chaussan
+15920514	63	Saint-Sauveur, Oise
+15930514	13	Fomerey
+15931514	146	Alternative model
+15948514	36	ChangÇ
+15951514	35	Dark Matters
+15965514	204	Pennsylvania Library Association
+15966514	83	Dead Husbands
+15982514	83	Wellington Classic
+15987514	18	Chenay, Sarthe
+15988514	16	Saint-Saturnin, Sarthe
+15995514	53	IgG deficiency
+16009514	54	Nikolay Popov
+16031514	68	Upper Green River Rendezvous Site
+16037514	25	Villeron
+16047514	13	Trindade do Sul
+16051514	30	Avshar, Ararat
+16054514	147	Saint-Blimont
+16065514	87	Plaquemines Parish School Board
+16074514	281	Washburn family
+16148514	7907	Freedom of religion in Egypt
+16151514	592	Bloodstrike (Image Comics)
+16153514	542	Breed Obsession
+16158514	549	Senseless (Law &amp; Order: Criminal Intent)
+16182514	91	Voloina
+16185514	41	TCDD DH9500
+16186514	295	Fanny by Gaslight (film)
+16199514	276	AndrÇ Carvalhas
+16207514	99	Krikorian
+16240514	1590	Anima: Beyond Fantasy
+16242514	84	Michael J. Stack III
+16272514	145	Newport Mill Street railway station
+16275514	1388	Kes (band)
+16278514	117	Dick Garcia
+16307514	243	Lauri Hakulinen
+16339514	6388	Insurgency in Aceh
+16350514	696	The Old Plantation
+16386514	40	Faggala
+16404514	48	Lundberg lag
+16426514	22	9587 Bonpland
+16437514	71	The Saddlestone
+16438514	123	Tangalle
+16447514	182	3D Bomb Alley
+16449514	2146	Loch Vennachar
+16452514	23	21926 Jacobperry
+16453514	23	8087 Kazutaka
+16465514	559	Spline (mechanical)
+16466514	22	5539 Limporyen
+16471514	24	18843 Ningzhou
+16476514	8	1978 Patrice
+16477514	24	22877 Reginamiller
+16479514	158	Millburn Magic
+16489514	49	Augen Bluffs
+16493514	132	Dee Road (Metra station)
+16503514	28	Number-one hits of 1972 (Germany)
+16514514	273	United States men's national under-17 soccer team
+16519514	155	
+16536514	43	Class 33
+16568514	124	Intergovernmental Working Group of Experts on International Standards of Accounting and Reporting
+16570514	1022	1946-47 Blackpool F.C. season
+16578514	214	Lawrence H. Brown
+16592514	120	Population Research Laboratory
+16623514	47	Visisys
+16631514	22	21311 Servius
+16669514	19	8102 Yoshikazu
+16678514	856	Armenia-Egypt relations
+16689514	154	2001 Asian Men's Volleyball Championship
+16693514	437	Got Mercury?
+16704514	108	Prenylamine
+16722514	866	Thomas O'Keefe
+16731514	66	FK Comae Berenices
+16754514	749	8th Connecticut Infantry Regiment
+16768514	1382	2008 East Carolina Pirates football team
+16783514	759	Wheatley Sharks
+16829514	766	Boston College Marching Band
+16842514	49	Alex Ferguson (footballer born 1903)
+16847514	14	MAPK15
+16853514	76	Casino Internacional Tibidabo
+16861514	34	AndrÇ Malet
+16863514	3578	Former state routes in Arizona
+16876514	396	Andy Pyle
+16888514	119	John Humphrey
+16895514	97	MÇtisse Motorcycles
+16922514	498	Edward Rafeedie
+16936514	218	Hartland High School (Michigan)
+16948514	467	Tomasz Konieczny
+16951514	135	Bronte Barratt
+16952514	372	Mustafa Krer
+16973514	453	Harry Thubron
+16978514	31	Dracea
+17002514	481	Battle of Al-Sannabra
+17008514	95	El Bruto
+17020514	647	James Mayhew
+17023514	212	Better Scream
+17060514	15	Abronia ochoterenai
+17097514	437	555 17th Street
+17109514	212	Camden auction
+17111514	1275	Radio Le Mans
+17112514	189	Louisiana-Lafayette Ragin' Cajuns baseball
+17115514	217	ABC North Queensland
+17118514	158	Roman Catholic Diocese of Bauru
+17124514	195	Mary Murphy Mine
+17131514	519	Ottawa Voyageurs
+17133514	303	Thomas Ellis (priest, died 1673)
+17138514	15	Blazejov
+17153514	134	Oakie Boogie
+17154514	619	Joe Iconis
+17184514	178	Bill Conaty
+17192514	397	Varudu
+17210514	174	Wildwood Crest School District
+17223514	119	Rimba Secondary School
+17234514	43	Hpaochan
+17235514	71	Fritillaria orientalis
+17240514	96	Libertarian Party of Mississippi
+17242514	18	Pa-hok
+17243514	19	Ahkawhtawng
+17244514	430	Alternate Endings
+17247514	70	Shilla District
+17257514	139	Claude Anelka
+17280514	44	Dominion Plaza
+17289514	446	Jules-Charles Le Bozec
+17295514	495	1998 Stanley Cup playoffs
+17303514	680	Joe Zdeb
+17328514	9	Trox foveicollis
+17331514	24	North Yorkshire County Council
+17349514	95	Patrick Sapp
+17401514	336	Valerio Di Cesare
+17414514	66	Battle of El N£mero
+17426514	214	George Street, Aberdeen
+17447514	81	Mor¢n Airport and Air Base
+17454514	62	Ravesteyn
+17478514	15	13092 Schrîdinger
+17487514	848	Pacific robin
+17516514	720	Shane Harper
+17547514	290	Asahiyama stable
+17568514	127	Fritz Neuland
+17578514	32	Yisrael Katz
+17583514	189	Charles E. Raven
+17584514	26	Otto B. Blackwell
+17589514	568	Congregation of the Sisters of the Blessed Sacrament
+17593514	156	Minose Station
+17597514	23	Phoeniconotius
+17614514	165	Deal School District
+17622514	439	Sophie Milliet
+17633514	309	1933 National Challenge Cup
+17640514	108	Select Sport
+17641514	208	Lower Dicker
+17648514	417	History of slavery in Alaska
+17655514	938	MargrÇt L†ra Vidarsd¢ttir
+17662514	1432	114th Fighter Squadron
+17689514	141	Inflow (hydrology)
+17693514	1014	DÇcoration du Lys
+17703514	600	Right to development
+17707514	77	A419 Road Bridge
+17790514	569	Anita Ondine Smith
+17804514	40	1983-84 League of Ireland
+17806514	540	Levi Richardson
+17817514	61	Oxenford
+17841514	121	Interregnum queen
+17843514	610	Mad Max Beyond Thunderdome (soundtrack)
+17850514	547	Tom Gurl Four
+17853514	291	Sun Chunlan
+17864514	328	Rob Carlton
+17866514	229	Cleveland Home for Aged Colored People
+17875514	122	Stanley McMurtry
+17879514	75	World Chart Express
+17888514	6	Shah-e Pari
+17890514	34	Jon Sesso
+17899514	33	Time in Azerbaijan
+17900514	61	WAQE-FM
+17911514	518	Shrine of the Cloak
+17921514	85	
+17933514	32	
+17955514	141	Aulus Postumius Albinus Magnus
+17960514	705	Drum stick
+18012514	44	Conning
+18020514	64	Samuel Piätre
+18053514	38	Berdyansk Raion
+18068514	411	SG Betzdorf
+18082514	37	Vanderbilt Archeological Site
+18098514	13	Nihon Bunka University
+18105514	310	Abdul Samad Khan Achakzai
+18111514	42	Plumstead (disambiguation)
+18129514	109	All Eyes to the Morning Sun
+18142514	401	Alvis TD 21
+18181514	256	The Darker Image
+18188514	23	1955-56 Irish League
+18197514	140	Feyenoord Jubilee Tournament
+18205514	44	Rojewice
+18249514	108	ôsterbottens Tidning
+18250514	27	Mount Juliet (British Columbia)
+18262514	35	Wankdorf
+18270514	27	Shahumyan, Armavir
+18279514	41	Vladimir Lebed
+18325514	42	Drzewianowo, Naklo County
+18327514	35	Os¢wka, Kuyavian-Pomeranian Voivodeship
+18343514	66	Godwine Porthund
+18346514	22	Boston, Accomack County, Virginia
+18361514	35	WCLU (AM)
+18378514	42	Smiely
+18379514	22	Puzdrowiec
+18393514	161	Mad Max (band)
+18395514	169	Higashi-Kokura Freight Terminal
+18416514	143	Ohio State Route 344
+18417514	9	Strichen railway station
+18423514	783	Talking Cricket
+18430514	22	Swidwie (disambiguation)
+18448514	206	Fengyuan Station
+18451514	22	Fonds-des-Nägres
+18452514	355	Exim Bank of China
+18453514	984	Atlantic history
+18465514	33	N69
+18466514	329	Orrius
+18474514	155	Radicals for Capitalism
+18480514	256	Thomas Raines
+18484514	68	Mobarak Mosque, The Hague
+18489514	336	Swiss Solidarity
+18512514	227	Islamicity
+18541514	231	USS Chinaberry (AN-61)
+18544514	1099	Noorbakshia Islam
+18547514	137	Dr. Sin II
+18572514	956	Oakton-Skokie (CTA station)
+18579514	100	Sisterhood (film)
+18583514	308	Joseph LeBaron
+18618514	262	C. Scott Grow
+18624514	36	Grabowo-Kolonie
+18637514	30	Rasipuram (Lok Sabha constituency)
+18640514	49	Terechy
+18647514	624	Squadron A
+18649514	457	2008 Manx Grand Prix
+18658514	20	Zemborzyce Wojciechowskie
+18664514	20	Smolanka
+18668514	46	Nowe Gieralty
+18694514	13	Nazario Toledo
+18714514	27	Brookside, Berkshire
+18729514	72	August Schumann
+18744514	61	Sun Ye
+18747514	69	Hamilton Historic District (Hamilton, Massachusetts)
+18769514	50	High Peaks Venture Partners
+18773514	137	Pockmark (geology)
+18775514	19	Wiskienica G¢rna
+18785514	46	Black Bob
+18799514	180	SÉnmihaiu RomÉn
+18810514	361	Louis Legrand (theologian)
+18830514	337	Robert Mercer
+18834514	12	Muradb?yli
+18837514	1481	Donald Innis
+18846514	17	Baladzha Bozayran
+18849514	26	Xinali
+18854514	92	List of NC State Wolfpack men's basketball seasons
+18860514	300	Tees Viaduct
+18866514	18	Qaraáanli, Kalbajar
+18879514	27	?tc?l?r, Sabirabad
+18886514	566	Sandra Stevens
+18890514	85	Judith van Kampen
+18896514	445	Shikigami no Shiro
+18897514	257	Nittany Lion Shrine
+18898514	73	Monterey National Forest
+18923514	10	C?nubi
+18924514	28	Alunitdag
+18925514	271	Eligible bachelor
+18934514	24	G?rsavan
+18953514	223	Tikkun megillat hashoah
+18966514	21	W¢lka Karwicka-Kolonia
+18971514	201	Stone of Tymora
+18974514	44	Rzymiec, Rawa County
+19001514	53	Elmer Hall
+19003514	101	San Francisco County Superior Court
+19004514	37	Kadambas, Nepal
+19009514	1543	314th Air Division
+19013514	38	Leopold¢w, Leczna County
+19014514	39	Gierczyce, Lesser Poland Voivodeship
+19016514	126	Thomas Henry Goode
+19018514	253	Kayaderosseras
+19043514	222	Tim Hurst
+19081514	1763	List of examples of Stigler's law
+19098514	691	Animalize Tour
+19101514	408	Hermogenes Ebdane
+19114514	37	Asrang
+19126514	84	Liu Dongsheng
+19130514	168	New Zealand Birth Certificate
+19150514	285	Irena Ponaroshku
+19164514	99	Gymnastics at the 2000 Summer Olympics - Women's floor
+19178514	196	Institute of Pharmacy, Jalpaiguri
+19182514	62	10332 DÇfi
+19189514	1420	Colt Official Police
+19192514	439	1695 in poetry
+19201514	108	1998 Tennis Channel Open
+19214514	14	Sakran
+19229514	271	Jagadevpur, Andhra Pradesh
+19230514	153	Desfontaines-LavallÇe
+19231514	139	Ironman Sweden
+19235514	369	Electoral history of Cynthia McKinney
+19247514	256	Ziyoda Qobilova
+19256514	249	Commission for Financial Literacy and Retirement Income
+19258514	81	Al-Busayrah
+19260514	180	Aceh Party
+19291514	452	Sturgeon-Weir River
+19300514	328	Stevie Riks
+19320514	899	Military Medical Business
+19329514	38	Arkhale, Lumbini
+19353514	412	Shadows and Light (Wilson Phillips album)
+19389514	304	A Lad an' a Lamp
+19394514	132	Shanghai Supercomputer Center
+19396514	207	Libera Me (album)
+19413514	310	Combe Force
+19438514	73	Sarawut Janthapan
+19441514	534	Robert T. Davies
+19443514	309	Gabonese parliamentary election, 1964
+19483514	323	1953-54 Huddersfield Town F.C. season
+19494514	168	Jack Peden
+19518514	66	2nd Health Support Battalion (Australia)
+19519514	876	Costs of warships 1900-18
+19543514	278	Axel Strauss
+19575514	114	Old Clay County Courthouse (West Virginia)
+19590514	253	Lokomotiv-Versuchsamt Grunewald
+19595514	19	Erhardt v. Boaro
+19600514	311	Sam Fletcher (soccer)
+19618514	202	The Armenian Reporter
+19640514	29	Pompilopsis
+19645514	141	Night of the Moonjellies
+19666514	51	GNAA (disambiguation)
+19729514	42	Poison Pen (disambiguation)
+19750514	44	Jonathan Taylor
+19754514	391	Abbas Tyrewala
+19795514	1552	The Meadows Racetrack and Casino
+19828514	256	Little Miss Pinkerton
+19829514	45	Burkaty
+19830514	1072	Cardiff Docks
+19841514	643	List of fictional living planets
+19842514	74	Naggar School of Photography
+19845514	191	Mohamed Azzaoui
+19852514	38	Qajaq
+19883514	521	Wheelie
+19901514	41	Drynia Stuzanska
+19902514	20	Nowe Zawady
+19915514	38	Podzdr¢j
+19919514	809	Prince Karl BorromÑus of Liechtenstein
+19928514	870	2009 Heartland Championship
+19929514	406	Javed Ashraf Qazi
+19947514	249	E˙K˙G
+19955514	19	Czerwonka-Folwark
+19966514	118	List of county roads in Clay County, Florida
+19995514	42	Bhabra (disambiguation)
+20010514	115	Mijat Tomic
+20013514	87	Herbert Jones (bishop of Lewes)
+20020514	160	Cutie Mui
+20025514	71	Femi Babatunde
+20027514	50	Adam Gorgoni
+20028514	432	Count of Tent£gal
+20041514	1023	Lisa M. Schenck
+20055514	62	Daher clan
+20061514	262	IX Sydney International Piano Competition
+20065514	798	Joan's on Third
+20105514	2281	List of programs previously broadcast by CBS
+20111514	536	2007 ITU Triathlon World Cup
+20114514	31	Item Idem
+20121514	367	Profile (Microsoft service)
+20122514	249	Bomboloni
+20127514	132	United States Senate election in Indiana, 1992
+20197514	285	Rick Fisher
+20207514	45	Amthamine
+20217514	266	Jir°
+20218514	178	Marvin Cruz
+20220514	144	1909 Wabash River earthquake
+20226514	21	Gayathri Mudigonda
+20265514	683	Arthur Comyns Carr
+20279514	558	The Reporter (newspaper)
+20288514	137	Steppenwolf (World Saxophone Quartet album)
+20298514	538	Behzad Razavi
+20320514	55	Paul Hunter (disambiguation)
+20336514	210	Charles Wyrick
+20359514	1221	United States presidential election in Nebraska, 2008
+20391514	226	Tueba Menayane
+20426514	315	Sacred Trust / After You're Gone
+20462514	264	Kivlemoyane
+20468514	168	USS Kamishak (AVP-44)
+20474514	726	A Miser Brothers' Christmas
+20515514	176	Ernest Webnje Nfor
+20519514	403	Song for the Life
+20529514	55	Catocala nymphaea
+20530514	188	Stanley Ibe
+20536514	90	Carl J. Richard
+20549514	78	OGLE2-TR-L9b
+20556514	419	Selattyn
+20567514	131	St. Anne's Church, Worksop
+20588514	64	Robert Smith (cricketer, born 1982)
+20615514	139	The Palominos
+20641514	107	Boschniakia hookeri
+20650514	488	Volume I (Queensberry album)
+20660514	30	Chemancheri
+20672514	68	Justice Russell
+20689514	30	Pullur (village)
+20701514	13	Hejazi goat
+20707514	56	Erik Larsen (rower)
+20748514	87	Krushari Municipality
+20750514	596	Minuscule 35
+20755514	377	Democracy in India
+20756514	363	Waldomore
+20757514	218	Sutiya Kingdom
+20782514	48	Roland Gîhler
+20786514	113	2001 Bangladesh census
+20789514	60	Jamie Murch
+20795514	38	Infantile digital fibromatosis
+20802514	197	V°ctor Estupi§†n
+20815514	45	Operculum papillare
+20817514	140	Tarlac-Nueva Ecija-Aurora Expressway
+20835514	23	Mae Negra
+20850514	173	Nikolay Kridener
+20853514	573	Yunnan-Burma Railway
+20857514	7	Cutaneous meningioma
+20889514	158	Kisha e Tuzit
+20890514	385	Farmer v. Brennan
+20892514	38	CFU-GEMM
+20896514	257	Disneyland Dream
+20904514	22	Aladdin and the Wonderful Lamp
+20927514	291	Huaman
+20931514	84	National Register of Historic Places listings in Hernando County, Florida
+20941514	68	13th meridian east
+20944514	227	Cosimo Piovasco di Rondï
+20975514	65	Osowo
+20980514	182	Ngazobil
+20981514	276	Tony Davis (American football)
+20983514	101	National Register of Historic Places listings in Le Sueur County, Minnesota
+20988514	21	Gac Pawezowa
+20990514	20	Splawce
+20994514	268	Kelly Dyer
+21000514	23	List of buildings in and around Copenhagen
+21015514	38	Ryczyw¢l
+21016514	162	Osiek nad Notecia
+21031514	37	Pruszewiec
+21032514	27	Krasnolipka
+21034514	63	2009 TC 2000 season
+21036514	489	Eugene McGuinness
+21055514	146	Beehive Casemate
+21068514	229	Chip Bowden
+21075514	613	Colossus and the Crab
+21096514	262	James Corum
+21118514	92	Slap
+21120514	27	Grabina, Gmina Zag¢r¢w
+21122514	389	Paris By Night 78
+21130514	136	Ian Campbell (athlete)
+21136514	20	Balaraja
+21148514	181	Stavanger University Hospital
+21157514	334	Biodiversity banking
+21158514	42	Polichno, Greater Poland Voivodeship
+21167514	233	Robert Ferguson (Carlisle MP)
+21176514	333	Juan de Villagarc°a
+21210514	66	VF2356
+21211514	76	Shou Tajima
+21214514	25	Serpentina
+21221514	231	Wolf Frameworks
+21224514	52	Husby metro station
+21233514	127	Ermin Lepic
+21237514	930	The 4th Annual Irish Film &amp; Television Awards 2006
+21239514	102	The Quiet Woman
+21263514	37	Nowy Dw¢r, Wodzislaw County
+21275514	117	Fire (Wu Xing)
+21283514	164	Spring Garden National Bank
+21284514	708	Housing Finance Bank
+21303514	97	Carex subnigricans
+21308514	958	Wild silk
+21363514	63	Walowice, Lubusz Voivodeship
+21378514	22	Kamisato, Nagano
+21386514	196	Georges Rouget
+21396514	424	Phillip T. and Susan M. Ragon Institute
+21406514	24	GallÇ, Mali
+21407514	184	Marco Sau
+21409514	1022	Joseph Hermann
+21426514	167	2006 CHA Men's Ice Hockey Tournament
+21428514	228	Rhìne-Alpes Regional Council
+21434514	327	Ethnic Cleansing (video game)
+21458514	88	Louis Henry, Count Palatine of Simmern-Kaiserslautern
+21463514	240	1461 Trabzon
+21477514	39	Jure Bucar
+21490514	386	Dann Glenn
+21501514	872	Scott MacIntyre
+21545514	344	The Daughters of St. Mary
+21551514	654	Sufi Way
+21552514	143	Freedom Park (South Africa)
+21553514	169	The Walterdale Playhouse
+21559514	1470	Thaumasia quadrangle
+21605514	1180	Norton Juxta Twycross
+21631514	233	Late protein
+21666514	60	Raty
+21669514	56	Siwialka
+21670514	68	Bozepole Wielkie
+21675514	220	Aguadulce Army Airfield
+21680514	12	Route 46 (disambiguation)
+21681514	101	1986-87 UE Lleida season
+21692514	98	James Austin
+21699514	134	Kutezevo
+21731514	39	Kepno (disambiguation)
+21742514	16	Spathiurus
+21749514	88	Jim HÑrtull
+21760514	31	Inter-Party Government
+21782514	189	Fripp-Fishburne House
+21796514	460	Perry House
+21806514	132	Benjamin Franklin Cameron
+21810514	210	James L. Foreman
+21813514	223	Robert Howell Hall
+21820514	160	Johann Brotan
+21821514	43	Grabowo, Ilawa County
+21822514	42	Morawa, Warmian-Masurian Voivodeship
+21823514	12	Grand-Akoudzin
+21824514	12	Nigui Assoko
+21836514	813	Charles Edward Wyzanski, Jr.
+21840514	56	Gierzwald
+21842514	39	R¢ze
+21844514	87	Dressler
+21863514	32	Baghdad Street (Damascus)
+21868514	65	Kasparov (disambiguation)
+21873514	209	Chenopodium leptophyllum
+21887514	68	Swiemino
+21889514	23	Nils Gabrielsson
+21899514	3714	Silver Line (Los Angeles Metro)
+21903514	62	Sigmund Freudenberger
+21910514	253	2003-04 FC O?elul Gala?i season
+21917514	29	Dirillo Lake
+21964514	150	Angel M. Marchand
+22000514	71	Rzecino
+22018514	158	Cryptolaemus montrouzieri
+22019514	95	The Southern Cross
+22059514	108	Duesenberg Straight-8 engine
+22062514	7	National Highway 115 (India)
+22085514	176	List of astronauts educated at the United States Military Academy
+22107514	130	Syn og Segn
+22112514	150	Salvia urica
+22116514	251	Archie Forbes
+22138514	99	Valur G°slason
+22141514	58	David Lee (footballer born 1980)
+22149514	56	Ogre Municipality
+22150514	27	Microphysetica
+22152514	15	Aglossostola
+22170514	330	ChristianCinema.com
+22176514	204	Khadijeh Saqafi
+22209514	77	Salton Sea (disambiguation)
+22225514	83	Jernej Karnicar
+22227514	22	Hopewell Gardens, Florida
+22257514	418	India national football team results
+22269514	445	Seattle University College of Arts and Sciences
+22275514	26	Oko language
+22285514	176	Branch MRT Line
+22288514	20	H?p Th?nh
+22319514	92	The View from Here: Conversations with Gay and Lesbian Filmmakers
+22321514	34	Aleksei Vladimirovich Semyonov
+22325514	201	Barbara McAlister (opera singer)
+22351514	39	Horace Kenton Wright
+22381514	42	Boyle (Parliament of Ireland constituency)
+22393514	49	The Surveyors
+22395514	553	Mark Dziersk
+22408514	493	Imperial Medicals Rugby Club
+22415514	180	CA Osasuna B
+22490514	15	Compsomyces
+22495514	33	National Highway 52A (India)
+22498514	22	Lueckingia
+22542514	13	Chejuparia
+22545514	21	Blogiascospora
+22551514	45	Hvorslev
+22552514	156	Andrei Taratukhin
+22570514	89	Gennaro Annese
+22575514	90	Jet DVD
+22602514	121	Massimo Lombardo
+22604514	135	Authorized Steinway Virtual Concert Grand Piano
+22614514	378	Robert Rowland Smith
+22617514	243	Johannes Erasmus Iversen
+22619514	161	Cornelio
+22636514	773	Cyclic succession
+22656514	9	1863 in paleontology
+22659514	760	Three Flavours Cornetto trilogy
+22661514	44	Tabanera
+22669514	75	Tracy Chapman discography
+22691514	30	Blobel
+22704514	1435	2010 National Scout Jamboree
+22717514	406	Kim Kang-woo
+22727514	17	Forserum
+22732514	124	John Willis (bishop)
+22738514	629	Scott Trial
+22741514	308	Ethelreda Malte
+22747514	606	Yitzhak Yosef
+22760514	919	Kana Nishino
+22763514	147	Instituto Nacional de Meteorolog°a e Hidrolog°a (Ecuador)
+22779514	32	Rugg (surname)
+22783514	85	Good Good Desperation
+22785514	710	OKR FM
+22816514	452	Dalston, Cumbria
+22835514	485	James Thompson Marshall
+22839514	19	Aglossophanes
+22845514	45	RomÇ
+22849514	86	Siamese mud carp
+22860514	27	The Gatehouse, Baltonsborough
+22865514	185	Romain Becquet
+22866514	26	Edme Mongin
+22869514	35	Ron Howden
+22875514	590	2009-10 Iowa State Cyclones women's basketball team
+22876514	62	List of windmills in Nottinghamshire
+22884514	361	Balgownie Rangers FC
+22895514	1070	Marhal
+22909514	49	Craspedosis
+22912514	91	1991 Baltic Cup
+22920514	726	Carolinas College of Health Sciences
+22928514	37	William Lindsay (field hockey)
+22932514	331	The War of the Worlds: Next Century
+22970514	30	Judai no yuwaku
+22978514	37	Anguilla (disambiguation)
+22983514	219	Abraham Garton
+23039514	923	Live'r Than You'll Ever Be
+23061514	2377	Smith and Snipes Hall Farm Ltd v River Douglas Catchment Board
+23106514	524	Thomas Hudson Connell
+23116514	418	John Wesley Wescott
+23142514	125	Eriophyllum congdonii
+23143514	637	New Zealand's Next Top Model
+23151514	65	Dance Little Dreamer
+23167514	127	Diarmuid O Cearbhaill
+23186514	486	Eugenia Silva
+23194514	178	Progress M1-2
+23195514	136	1991 Wyoming Cowboys football team
+23217514	98	Welcome to Pleasantville
+23223514	10	Barkeria lindleyana
+23229514	236	Baby Don't Go - Sonny &amp; Cher and Friends
+23232514	284	Billy Gardner, Jr.
+23235514	29	Willow Springs, California
+23248514	133	Journal of Transatlantic Studies
+23262514	88	Glauert
+23267514	355	Juan Procopio Bassecourt y Bryas
+23270514	303	Janrain
+23274514	605	2009-10 Washington Wizards season
+23278514	125	2009-10 Iraklis F.C. season
+23280514	26	Proliferating trichilemmal cyst
+23292514	10	Eria bractescens
+23303514	68	27th MMC - Stara Zagora
+23312514	91	Oscar Amoabeng
+23314514	93	2008 WAFF Women's Futsal Championship
+23364514	95	Richard McMahon
+23375514	14	Myoxanthus seidelii
+23384514	240	HÉfiz Osman
+23423514	12	Astalikhvar
+23437514	487	Hall Street Associates, L.L.C. v. Mattel, Inc.
+23438514	42	Fresh Pair of Eyes
+23446514	1319	DeKalb County Police Department
+23459514	12	Tartarugal Grande River
+23465514	125	Oregon Primate Rescue
+23472514	34	Tom Homco
+23477514	63	Journal of African Economies
+23481514	37	B°lkovice
+23494514	24	Chilisoaia
+23510514	44	Uthamadani
+23517514	37	Fairmount Cemetery
+23528514	15	Par£ River
+23537514	23	Ochiul Alb
+23543514	1360	On the Jellicoe Road
+23556514	25	Brown River
+23568514	20	Bacioi
+23580514	22	Faiszer Musthapha
+23584514	31	South Branch Little Sugar River
+23586514	36	Cenkov
+23591514	135	Pietro Ghersi
+23593514	21	David Feinstein
+23611514	27	Dirce (moth)
+23616514	65	Considered planted
+23621514	10	Epimacaria
+23625514	18	Ohavec
+23626514	24	Dobrany (Rychnov nad Kneznou District)
+23635514	10	Parallage
+23645514	10	Syrrhodia
+23655514	129	Ringpullworld
+23667514	12	Hofmeisteria
+23681514	305	Magazine cover indicator
+23694514	192	Sue Vertue
+23700514	53	Kawarayu-Onsen Station
+23706514	236	Fairey Ferret
+23736514	493	Best Man Wins
+23738514	959	Michael I of Russia
+23744514	71	KBDL-LP
+23766514	229	1995 Constitution of Ethiopia
+23790514	12	List of United States Air Force helicopter squadrons
+23795514	13	Iconha River
+23807514	5261	Catholic bishops in Nazi Germany
+23823514	40	B Boys
+23824514	161	Gibran (crater)
+23842514	19	Capivari River (Rio de Janeiro)
+23858514	54	Citov
+23871514	77	Greg Kent
+23872514	560	Alessandro Guidoni
+23885514	16	Sangha Department
+23891514	930	Good Hair (film)
+23899514	588	Dan Forshaw
+23906514	74	Ministry of Land and Land Development
+23917514	1120	Super Mu§eco
+23918514	323	Jordan Clarke (footballer)
+23923514	110	Breaking (album)
+23932514	18	Numayr, Hadhramaut
+23941514	92	Hejiang County
+23944514	467	2009 Tour of Missouri
+23951514	15	Cerquinha River
+23954514	10	1964-65 Qatar Stars League
+23957514	255	Shiro Miya
+23960514	167	City Lights: Country Favorites
+23964514	130	Very Busy
+23980514	54	Lord Lisle
+23988514	18	Quechuamyia
+23999514	11	Bulbophyllum occlusum
+24003514	388	Bar Ilan Responsa Project
+24010514	9	Milagro River
+24014514	328	Ezechiele Ramin
+24017514	279	Edmund Quincy (1808-1877)
+24022514	191	Equipollence (geometry)
+24031514	3150	LIFT Productions
+24041514	60	Kl†sterec nad Orlic°
+24053514	263	TransAfricaRail
+24063514	87	Scutellarin
+24066514	44	Marios Batis
+24068514	210	The School of Polish for Foreigners
+24073514	37	UEFA Futsal Under-21 Championship
+24075514	58	Drslavice (Prachatice District)
+24076514	52	Vlkov (CeskÇ Budejovice District)
+24077514	151	Clubbed Thumb
+24085514	160	Martin Outram
+24104514	44	Sierra Leone at the 2009 World Championships in Athletics
+24107514	482	Buggies Unlimited
+24108514	206	Moving Target (2011 film)
+24153514	249	Full House (John Farnham album)
+24154514	209	1935-36 Northern Rugby Football League season
+24177514	81	Ibie
+24223514	614	Birds of Prey (band)
+24225514	89	Trail Riders
+24226514	152	John Stewart McLennan
+24268514	88	Mount Ashland
+24281514	25	Milan Nikolic
+24308514	162	Cypriot Third Division
+24321514	151	Oudemansiella
+24362514	141	Malacothrix incana
+24366514	45	Aslan Dyshekov
+24371514	945	2009 William &amp; Mary Tribe football team
+24373514	73	Nagao Station (Saga)
+24388514	24	Boyne Lake, Alberta
+24407514	30	Mili Jay
+24410514	252	Eversley &amp; California F.C.
+24413514	36	Philip Rogosheske
+24430514	301	William P. Anderson
+24450514	604	Congenital pulmonary airway malformation
+24462514	47	Hamadryas arinome
+24479514	1111	Pearl Corkhill
+24498514	249	Neil Krause
+24502514	27	Irakli Kiziriya
+24506514	1575	Preggers
+24514514	199	Wietie
+24524514	1422	Aristotle's views on women
+24537514	1160	Gunnar Nelson (fighter)
+24549514	115	JDP
+24560514	192	1918 VFL Grand Final
+24583514	52	Hedemora Circuit
+24587514	287	Torfaen Tigers
+24588514	134	Efra°m Rico
+24609514	289	DODDS European Championships
+24614514	24	Roosevelt School (Casper, Wyoming)
+24617514	723	Arthopyrenia
+24623514	53	Aodh mac Aidmhire
+24644514	136	Isachne
+24663514	39	Isabelle Boulogne
+24685514	161	Hopewell Museum
+24687514	57	Chromoprotein
+24689514	9	AR Rahman Foundation
+24702514	90	Long Island Golf Association Amateur Championship
+24704514	33	Aleksandr Galkin (footballer)
+24714514	487	Ogging
+24720514	168	William Eveleigh
+24721514	11	Lidbeckia
+24726514	11	Pollalesta
+24740514	594	Goddess of the Market
+24754514	1411	Democratic Front of Albania
+24764514	374	Samuel Nathan Blatchford
+24772514	46	Pavel Hottmar
+24778514	383	Mountain stream salamander
+24780514	53	Giannis Alexiou
+24822514	42	Ushongo
+24823514	68	Bekwarra
+24885514	119	AB-25-class patrol craft
+24889514	51	City of Pirates
+24897514	490	Stratford City
+24899514	99	Zianchurinsky District
+24900514	42	Confidencial
+24909514	85	Seyed Kamal Sajjadi
+24919514	61	CC4
+24923514	47	Bucyrus, Kansas
+24938514	134	Hawkswood School
+24939514	86	McTyeire College
+24946514	138	Government College of Technology, Bahawalpur
+24962514	3529	List of Northamptonshire CCC players
+24991514	307	David Peel Yates
+25004514	796	HMS Persian (1809)
+25008514	117	Grace Episcopal Church Complex (Lyons, New York)
+25043514	49	1964 Trampoline World Championships
+25045514	182	Purse
+25068514	30	Steven Pinto-Borges
+25070514	194	23rd Reserve Battalion, CEF
+25071514	114	Church Cottage, Eccleston
+25078514	47	Belo Vale
+25103514	333	DGQ-20
+25106514	485	Bremer Bank
+25109514	163	Distorted Ghost (EP)
+25115514	54	2006 Pacific Curling Championships
+25122514	125	1967 Copa Per£
+25155514	23	Bursuceni
+25166514	64	Alexandru Bratan
+25170514	179	Battle of Alexandria (disambiguation)
+25174514	985	Kanishka Gupta
+25177514	288	C23H24O12
+25220514	102	Jethro Leadership Management Institute
+25221514	57	Christopher Turnor
+25228514	527	Joe Perez
+25230514	2553	Happy Feet Two
+25253514	75	Michael P. Walters
+25258514	600	Villa Carlota, German Colonies in Yucat†n. Mexico
+25266514	288	Lord, Mr. Ford
+25277514	420	Dermot O Daly
+25312514	222	Vice admiral (Royal Navy)
+25335514	471	Dzongsar Monastery
+25337514	1487	Chen Yixing
+25342514	1525	Taxation in Puerto Rico
+25347514	422	James Dahl
+25354514	429	Aedhmar Hynes
+25362514	765	David A. Robinson
+25368514	36	James E. Willard
+25369514	25	Naum Batkoski
+25370514	168	Jairamnagar
+25396514	770	Heichu Monogatari
+25399514	115	443d Fighter Squadron
+25406514	24	Reflections (Kurt Rosenwinkel album)
+25412514	41	Melis Birkan
+25423514	40	Sheraton Skyline Hotel at London Heathrow
+25424514	305	Chicago Colleens
+25448514	85	Peter Camiel
+25451514	815	All-weather running track
+25465514	148	Lala Lajpat Rai Hospital
+25468514	19	Ibicu°
+25469514	23	Sao Lourenáo do Oeste
+25472514	14	Aechmea 'Fulgo-Ramosa'
+25478514	177	Priyadarshini Pradhan
+25483514	87	I Wonder If They Ever Think of Me
+25496514	99	Esmaeil Sharifat
+25503514	169	Carpinteria Valley Museum of History
+25506514	246	Jim Hegerle
+25508514	755	Natalie White
+25515514	31	Kawalec
+25519514	438	Rimutaka Incline railway accident
+25521514	149	Silicone scar sheet
+25527514	996	Abraham Samuel
+25539514	127	Tyson Houseman
+25540514	346	
+25553514	28	BrasilÉndia do Sul
+25557514	259	Ray Bellino
+25561514	170	Brown Betty (teapot)
+25572514	230	Tony Bellamy
+25586514	152	Kotcho Formation
+25598514	58	Willi Oueifio
+25602514	15	Cartographic expeditions to Greenland
+25612514	55	The Wonder Smith and His Son
+25616514	399	La Vie
+25630514	141	Great Alne railway station
+25643514	49	Mary Jayne Harrelson-Reeves
+25659514	230	Brinkworth Brook
+25675514	60	UEFA Euro 2004 qualifying Group 6
+25676514	33	2008-09 Yemeni League
+25683514	152	CCGS Cape Dundas
+25710514	311	Elden Pueblo
+25719514	80	Kokuhaku
+25736514	373	Diana Goodman
+25738514	145	Lake Marmara
+25739514	34	Lieke
+25771514	1464	Cork Free Press
+25790514	320	Tommi Ahvala
+25814514	53	Tim Maddison
+25821514	104	Unstuck in Time
+25849514	47	Eucosma obumbratana
+25850514	1802	Hope for Haiti Now: A Global Benefit for Earthquake Relief
+25863514	33	Psammopolia
+25882514	21	List of airlines of Portugal
+25888514	28	Macraesthetica
+25893514	1618	TARGIT
+25896514	719	Everybody Loves Hugo
+25899514	226	Raymond H. Fogler
+25900514	137	Williella
+25918514	39	Psilocybe subtropicalis
+25921514	516	Evelina Haverfield
+25928514	111	Mount Hyland Nature Reserve
+25936514	21	Kwatta
+25947514	51	John Kelly (Nottinghamshire cricketer)
+25949514	142	Cross-bolted bearing
+25952514	262	List of cemeteries in Russia
+25976514	30	Guaranda Canton
+25980514	979	World Rally Championship (video game series)
+25981514	45	Ardonsky
+25996514	721	Scared Stiff (1945 film)
+25999514	18	Tritonia moesta
+26003514	230	Leng Buai Ia Shrine
+26010514	44	Stojan Malbasic
+26041514	604	Ausco Lambert disc brake
+26054514	247	Edmund Lewandowski
+26063514	115	Cydia cosmophorana
+26068514	252	Leo V (dwarf galaxy)
+26082514	57	Alexandros Karachalios
+26092514	104	Lismire GAA
+26109514	94	Michael Haybîck
+26131514	465	Fox Volant of the Snowy Mountain (2006 TV series)
+26179514	304	William Bagot (politician)
+26200514	158	Patrick Henry Brittan House
+26204514	40	Orav
+26235514	864	Hassan Whiteside
+26250514	450	Franz Breithaupt
+26262514	375	When the Roses Bloom in Dixieland: Their Complete Victor Recordings (1929-1930)
+26273514	71	F.B. Hursh
+26281514	240	Flag of Mecklenburg-Vorpommern
+26283514	195	Priozersk, Kazakhstan
+26292514	328	Jackie Bange
+26303514	220	Russ Reader
+26306514	528	Ochtum
+26333514	573	Moderate Party (Spain)
+26345514	101	Necessity defense (Kansas)
+26346514	660	Action of 19 December 1796
+26350514	205	Keith Bebbington
+26361514	37	Girl in the Woods
+26362514	451	American Bison (Arnold)
+26364514	120	1996 Duvall earthquake
+26378514	2159	Funeral practices and burial customs in the Philippines
+26392514	1470	Doing Business Report
+26403514	72	Protected from Reality
+26429514	1029	Arrigo Pola
+26434514	70	Don Fish
+26435514	17	Weight (surname)
+26436514	17	Antonio Bacchetti
+26443514	38	Korean-American Volunteer Group
+26455514	10	Vutcani River
+26458514	472	Society for Business Ethics
+26480514	731	Point Lonsdale Lighthouse
+26515514	245	Jim Driscoll (baseball)
+26517514	80	Dew House
+26520514	55	Mount Zion African Methodist Episcopal Church and Mount Zion Cemetery
+26523514	605	Fredrik Lundin
+26524514	16	Za'gyazangbo Railway Station
+26527514	635	Stefan Meyer (physicist)
+26543514	153	Love in Stereo (song)
+26551514	1154	10 Minutes (song)
+26553514	238	Acanthurus gahhm
+26561514	48	25512 Anncomins
+26565514	431	Minuscule 661 (Gregory-Aland)
+26579514	62	Fisk Chapel
+26580514	543	Pompeiu derivative
+26596514	191	Ronan Kelly
+26619514	519	Donald Butler
+26621514	69	Hans Christian Hagedorn
+26643514	111	John Adam Fleming
+26652514	1530	Mithras in comparison with other belief systems
+26663514	33	Albert Einstein Academy for Letters, Arts and Sciences
+26666514	4094	Skanderbeg's Italian expedition
+26670514	2010	1975 Philadelphia Refinery Fire
+26721514	376	Ian Rotten
+26725514	54	Conus sculletti
+26729514	497	Pat Duff
+26736514	6	Khanaqin District
+26747514	1403	2010 World Lacrosse Championship
+26754514	349	Elk Township, Lake County, Michigan
+26764514	60	Valentin Stepankov
+26788514	109	Oro
+26795514	28	SS Planter
+26832514	29	Ghola, Kolkata
+26834514	27	Swazi records in athletics
+26835514	201	Hans Bergsland
+26841514	18	Daphnella cheverti
+26847514	128	New-French Latinisation
+26861514	50	Tor Ahlsand
+26871514	21	Pristiterebra miranda
+26889514	80	Hardi Pardaillan!
+26892514	600	RocketMotorTwo
+26893514	19	Ranalli
+26895514	49	Batalla
+26905514	131	Nefertkau I
+26908514	102	Gergely Pal†gyi
+26912514	138	Think Tank on European Film and Film Policy
+26923514	484	Pleurotomaria
+26933514	41	Monterey County Fairgrounds
+26968514	56	I. australis
+26979514	262	Vin°cius Bristott
+26994514	21	Retizafra valae
+26996514	98	United States Senate elections, 1816
+27012514	9	Chelelemuk
+27015514	14	Entsuji
+27034514	10	Muchumo
+27040514	83	Enteroplax
+27082514	263	Babesia bovis
+27098514	24	Favartia nucea
+27099514	24	Pteropurpura centrifuga
+27104514	16	Paul Oziol de Pignol
+27105514	30	Pa Pong, Chiang Mai
+27121514	309	Georges de S. Canavarro House
+27123514	166	Rosa Mulholland
+27154514	724	Swanson Health Products
+27155514	209	Mohammed Shaaba Lafiagi
+27177514	342	Minuscule 695
+27178514	1250	2010-11 Greenock Morton F.C. season
+27183514	30	(5625) 1991 AO2
+27196514	547	2010 Altazor Awards
+27199514	331	Position (music)
+27212514	93	Where Will I Be Now
+27221514	444	South African National Space Agency
+27244514	13	Aldea Escolar
+27254514	506	Texas Ballet Theater
+27259514	15	Pilquiniyeu del Limay
+27284514	15	Featherstone, Virginia
+27288514	428	Reynolds Metals Company International Headquarters
+27291514	168	Victor Scialac
+27293514	148	UK Cleaning Products Industry Association
+27307514	25	Vava (Babusnica)
+27339514	27	Steve Barclay
+27358514	31	Margaret W. Rossiter History of Women in Science Prize
+27364514	2989	Coleman Station Historic District
+27365514	2059	Momay
+27367514	2180	5.0
+27368514	292	Saphir Taãder
+27383514	2188	List of princely states of India (alphabetical)
+27388514	73	Arthur Arntzen (humorist)
+27398514	33	Success &amp; Failure
+27406514	164	Jean-Eugäne-Charles Alberti
+27410514	4882	2011 World Series
+27449514	59	Davit G. Petrosian
+27454514	8	_aral†tursfjîrdur
+27476514	703	Saint Hilary School
+27478514	20	Antennablennius variopunctatus
+27502514	22	HPG
+27504514	57	Shamweel Qasim
+27507514	16	Akira Komatsu
+27543514	38	H. aspersa
+27550514	45	7564 Gokumenon
+27560514	1011	Kettle Wirts
+27561514	21	Marginella cosmia
+27565514	132	KÑru
+27568514	32	Menelaos Psarrakis
+27577514	429	Dil Jeetegi Desi Girl
+27582514	54	Mount Storegutt
+27593514	433	Andreas Schmidt (baritone)
+27600514	201	Kape at Balita
+27619514	23	Phenacovolva philippinarum
+27629514	55	List of airports in Abkhazia
+27646514	129	Bela-Bela Local Municipality
+27657514	360	List of electoral wards in West Yorkshire
+27659514	458	Bat algorithm
+27665514	128	Fludyer baronets
+27670514	657	GÇza, son of GÇza II of Hungary
+27683514	387	John Shoch
+27685514	29	Mikesville, Wisconsin
+27692514	266	Audu Idris Umar
+27707514	69	Johann Karl Auerbach
+27733514	11	Kanzelwand
+27748514	37	Sinuber microstriatum
+27753514	344	Zachary James
+27756514	43	Franáois Boch
+27769514	52	Ranse Eroica
+27772514	771	2011 FIFA Beach Soccer World Cup qualification (UEFA)
+27774514	149	Bannetze
+27786514	120	Metisella metis
+27814514	59	Teminabuan
+27817514	806	For Beginners, LLC
+27823514	26	Barbados at the 2010 Central American and Caribbean Games
+27857514	59	2003 Estoril Open - Men's Singles
+27858514	556	30' surf rescue boat
+27871514	1719	
+27873514	26	Ranularia muricina
+27878514	88	James K. Baker
+27900514	365	Order of Ennead
+27902514	109	The Mall (Sofia)
+27920514	1005	4th New Zealand Parliament
+27935514	244	Randy Santiago
+27964514	751	Subiaco Abbey
+27965514	14	Viitasoo
+27984514	29	Koblek
+27999514	54	34088 Satokosuka
+28000514	238	Anderson County Courthouse (Texas)
+28028514	345	Soga-Mononobe conflict
+28033514	490	List of universities in Yogyakarta
+28038514	50	Istiblennius meleagris
+28060514	243	Turn of the Tides
+28070514	1195	Hinrich Johannes Rink
+28075514	77	Gert van den Bergh
+28087514	26	Ridage
+28096514	415	Jamshid Nakhchivanski Military Lyceum
+28104514	25	Macedonia at the 2010 European Athletics Championships
+28105514	9	Steganacaridae
+28126514	48	Serhiy Shevchuk (footballer born 1990)
+28152514	185	United States House of Representatives elections in Nebraska, 2006
+28157514	127	So This Is London (1939 film)
+28164514	61	Alex Skuby
+28171514	39	Grapefruit (disambiguation)
+28177514	114	Heaven Sent
+28178514	118	Austrian Open KitzbÅhel
+28191514	316	Enviromena Power Systems
+28204514	20	Gornja Barica
+28208514	51	Salvia filicifolia
+28223514	46	Brouwerij 't Koelschip
+28225514	751	Trapalcotherium
+28236514	2512	United States Polo Association
+28239514	31	Puerto Rico Highway 585
+28269514	53	The Monarch of the Glen (novel)
+28275514	3060	Higher education bubble
+28282514	3251	4477th Test and Evaluation Squadron
+28300514	63	Hosni
+28309514	738	Arun Nigavekar
+28327514	27	Salome Sellers House
+28329514	392	Za Ukrainu
+28351514	15	Isle of Man Open
+28353514	100	Bad Behaviour
+28366514	22	Fox on the Run
+28374514	45	Larsenia scalaroides
+28382514	12	Typhlops rondoensis
+28383514	16	Geumjeonsan
+28384514	17	Curevo
+28387514	14	Ivica (Kiseljak)
+28389514	216	HMAS Terka
+28394514	26	SENIAT
+28396514	496	2011 FIBA Africa Championship
+28415514	717	Ailson Brites
+28416514	15	SR556
+28428514	305	Multi-Lamellar Emulsion
+28453514	112	2010 Pilot Pen Tennis - Men's Singles
+28467514	855	Accidental Life
+28476514	27	Tomasz Szymkowiak
+28478514	151	Mustafa Abdul-Hamid
+28492514	14	Hocu zivjeti
+28521514	164	Kawasaki S1 Mach I
+28560514	104	Jiangwan Bridge
+28563514	282	148th Ohio Infantry
+28571514	257	Landgravine Eleonore of Hesse-Rotenburg
+28594514	363	Liaoning Coastal Economic Belt
+28636514	24	Roland Stevko
+28648514	46	Sunay
+28654514	90	Jake Taylor
+28661514	73	James Thompson (cartographer)
+28684514	179	Radiology (journal)
+28687514	3372	2011 Singapore Grand Prix
+28698514	631	Joanna Bogle
+28700514	202	Hukumchand Amdhare
+28702514	368	2000-01 Coventry City F.C. season
+28714514	266	Khawy
+28716514	826	1st Regional Legislature (Azores)
+28725514	245	Rosie Millard
+28727514	215	Hill Club
+28728514	237	The Mile End Sessions
+28732514	31	Snow Creek Methodist Church and Burying Ground
+28760514	316	Michael Bodkin (referee)
+28771514	905	Battle of the Dalmatian Channels
+28787514	56	Udea micacea
+28789514	18	La DÇmence du boxeur
+28803514	2125	William Ennis Thomson
+28833514	10	Sulefjellet
+28837514	47	Kailidiscus
+28841514	656	Abdul Halim Jaffer Khan
+28854514	14	Kadatanbagewadi
+28860514	16	Johns Folly, United States Virgin Islands
+28863514	2055	Last Day of the Dinosaurs
+28890514	12	Eiste
+28928514	377	Ask Rhod Gilbert
+28939514	49	1996 Abierto Mexicano de Tenis - Singles
+28940514	128	Midlothian Community Hospital
+28941514	104	International rankings of Libya
+28952514	206	Charles Montgomery (Royal Navy officer)
+28954514	67	Holdin' a Good Hand
+28963514	376	2010-11 CONCACAF Champions League Championship Round
+28967514	121	Shock Troop (film)
+28975514	1959	Jorge Ferreira Chaves
+28979514	16	Miletine
+29018514	92	Conturbatia crenata
+29020514	70	Pike River
+29025514	31	Boon Keng
+29038514	14	Kollino
+29053514	151	Ugly Americans (band)
+29066514	463	Porky's Preview
+29078514	23	Amblyptilia forcipata
+29103514	281	Bill Pittuck
+29126514	410	32nd Filmfare Awards
+29156514	103	Thomas Bacon (politician)
+29161514	23	John Crerar
+29191514	202	Jiu-Jitsu Federation of Rio de Janeiro
+29204514	566	Syren (clipper)
+29205514	252	Hacettepe University Medical School
+29206514	489	Murder, He Says
+29214514	73	Nasir ad-Din al-Qasri Muhammad ibn Ahmad
+29231514	93	William Jordan Rattray
+29247514	86	Agropatria
+29272514	52	Juli†n Dobrski
+29287514	1229	AT&amp;T Corp. v. Excel Communications, Inc.
+29295514	28	Cocool
+29302514	544	Macrococcus
+29334514	88	Cadwalader Beach
+29344514	101	Wadaj Dam
+29345514	58	Sulwade Barrage Dam
+29347514	242	Sacred Heart Church, Keamari
+29370514	130	Giulio Alessandrini
+29376514	168	Louise Reichardt
+29381514	57	Department of State Development
+29383514	16	Alexander River
+29390514	39	Sporolithaceae
+29396514	211	List of past members of the Government of Singapore
+29399514	412	Rock Mafia
+29402514	51	Norwegian Union of Forestry and Agriculture Workers
+29403514	2181	Martin Dibble
+29407514	141	Erling Flotten
+29419514	56	Walker Rocks
+29439514	377	Holometer
+29449514	44	Vinten-Johansen Ridge
+29455514	289	David George Newton
+29473514	18	Mphiwa Dlamini
+29485514	51	Bugulma-Belebey Upland
+29503514	18	Little Fountain, United States Virgin Islands
+29549514	39	Elephant Flats
+29552514	48	Richard Hely-Hutchinson
+29553514	108	Ganymede Heights
+29554514	51	Greben' Island
+29563514	33	In Flanders Fields (disambiguation)
+29577514	76	Sailing at the 2011 Pan American Games
+29603514	20	Fitzroy Land District
+29615514	69	Schmidt Peninsula
+29626514	77	Dave Dunaway
+29652514	96	Joseph Mallet House
+29654514	126	Barent van Kalraet
+29657514	491	Athenais Philostorgos II
+29660514	321	Charles Cornwallis, 1st Earl Cornwallis
+29666514	720	Sir George Sinclair, 2nd Baronet
+29718514	50	Kattaugo Rocks
+29720514	46	Lyell Lake
+29730514	56	Love Was on Our Side
+29757514	937	Kim Wyant
+29776514	51	Crociale
+29781514	338	Mukul Shivputra
+29782514	609	Alec Ogletree
+29783514	68	Paulo Henrique
+29800514	353	Barak Heymann
+29804514	117	Cover Magazine (Arts Publication)
+29856514	460	2018 FIFA World Cup qualification
+29857514	349	1973-74 FA Amateur Cup
+29862514	258	Tarakeswar (Vidhan Sabha constituency)
+29869514	549	Djan Silveberg
+29879514	28	Acrocercops habroscia
+29889514	3194	The Bible and violence
+29893514	228	Nik Adruce
+29907514	30	Thomas C. Wilkinson House
+29930514	488	AndrÇ de Gouveia
+29983514	155	Board of Intermediate and Secondary Education, Faisalabad
+29984514	447	Michel Mossessian
+30018514	14	Rahouia
+30040514	176	Easterlin hypothesis
+30046514	189	Board of Intermediate and Secondary Education, Multan
+30058514	190	2010 Chabahar suicide bombing
+30089514	22	Neuropsychologia
+30094514	529	Association for Laboratory Phonology
+30100514	166	Daniel Reyes (Nicaraguan footballer)
+30121514	90	Lost Ships
+30150514	364	Domenico Vittorini
+30185514	5172	Murder of Joanna Yeates
+30200514	416	Believe It or Not (song)
+30208514	19	Syleus
+30209514	110	Golden Mask (disambiguation)
+30211514	7	Blaue Lacke
+30259514	701	Triumph Super 9
+30264514	800	Widjojo Nitisastro
+30270514	123	Great Britain national wheelchair rugby team
+30291514	116	RÇmy Dugimont
+30352514	736	Buiston Loch
+30355514	117	Exxset
+30357514	1055	Peter Grippe
+30369514	854	Kris Ruhs
+30413514	132	Silesian Eagle
+30428514	594	USC Trojans football under John McKay
+30461514	263	Douglas E. Lynch
+30472514	576	HomeVestors of America
+30481514	190	Thomas Morrissey
+30482514	239	Robbie Gibbons
+30483514	47	Lengue
+30499514	244	Brett Roberts
+30502514	455	Sacir Hot
+30506514	404	Tivoli Provisioning Manager
+30512514	15	Rangomuwa
+30515514	39	P¢csa
+30520514	98	Royalton Airport
+30531514	64	Mid front rounded vowel
+30534514	26	AXN Pakistan
+30540514	724	Saarland Hurricanes
+30544514	44	Newtown (Palatka)
+30556514	170	Eurydema ventralis
+30559514	24	Toarp, Malmî
+30561514	646	Bedia (caste)
+30575514	234	Satya Bhabha
+30578514	14	RenÇ Bertram
+30584514	19	De Mulla Samandar Sahib Kelay
+30595514	243	Gloucestershire Volunteer Artillery
+30597514	278	The One I Loved Back Then (The Corvette Song)
+30604514	345	Carmen Barradas
+30614514	726	Cornerstone (agency)
+30636514	819	Audi CoupÇ (B2)
+30639514	773	Stat-Ease
+30689514	195	Ayni
+30695514	266	Marguerite of Burgundy, Countess of Savoy
+30723514	115	Henry Otto Wix
+30724514	369	Bulong (film)
+30740514	15	Chick Pedroes
+30747514	29	Sex Music
+30829514	26	Rock pigeon (disambiguation)
+30830514	215	Religious of the Perpetual Adoration
+30845514	1094	JSON-WSP
+30856514	34	Ra£l Lozano
+30862514	383	Coomera, Queensland
+30871514	721	Mike Jeffries (soccer)
+30874514	360	Philippe Louis de Noailles
+30884514	204	Jones Sewing Machine Company
+30900514	144	Al-Fourqaan mosque
+30905514	268	Esmael G. Mangudatu
+30915514	104	High Cockalorum
+30918514	146	Brit Denstad
+30920514	674	Wind power by country
+30938514	267	Rwanda-Rundi
+30939514	24	Effective topos
+30946514	292	John Mitzewich
+30947514	51	Reyne
+30959514	158	Erica turgida
+30962514	178	Epsilon II Archaeological Site
+30975514	25	Colin McDonald (footballer, born 1974)
+30991514	272	George Faulkner (manufacturer)
+30999514	65	Defensive meritorious badge
+31000514	170	Jon Landry (ice hockey, born 1983)
+31001514	82	Jazz a Confronto 19
+31002514	45	The Canadian Journal of Economics and Political Science
+31008514	127	Seven Hills, Colorado
+31009514	167	Women's Football at the 2007 Island Games
+31011514	2242	The Night the Sun Came Up
+31025514	39	El Camino de los gatos
+31027514	535	List of golf courses in The Villages
+31040514	26	DUSP23
+31050514	803	How to Train Your Dragon: Music from the Motion Picture
+31068514	19	Babych
+31093514	254	Porticus Catuli
+31105514	4941	Leo Klejn
+31108514	177	Charlie Lyne
+31123514	109	AvalonWaterways
+31134514	107	Leonora Sparkes
+31137514	93	Live at Sweet Basil (disambiguation)
+31140514	90	Time of My Life (George Fox album)
+31151514	248	Semantic Technology Institute International
+31152514	104	Almost a Honeymoon (1938 film)
+31161514	80	Koda Kumi Remix Album
+31164514	179	Centennial Park Conservatory
+31165514	3850	Femme Fatale Tour
+31172514	13	Robert Fish
+31180514	367	Monreith House
+31183514	66	Day and Night (2004 Swedish film)
+31188514	48	Radical 111
+31191514	377	The West Virginia Rosie the Riveter Project
+31193514	45	Azamabad Industrial Estate
+31203514	354	Bill Shipman
+31209514	72	AS Police (Dakar)
+31239514	113	Anton LahdenperÑ
+31257514	129	Carolus Andriamatsinoro
+31258514	50	Radical 202
+31267514	123	Thomas J. MacDonald
+31297514	155	Father Martin Cup
+31301514	24	OVCs
+31312514	28	Mustapha Farrakhan
+31328514	56	Idahome, Idaho
+31331514	1546	6:02 AM EST
+31332514	18	Bush Bank
+31343514	17	Rhos Talglas a Chors yr Hafod
+31345514	210	2010-11 Queen of the South F.C. season
+31357514	149	Ayu-mi-x 7 Version Acoustic Orchestra
+31359514	16	Agdistis riftvalleyi
+31367514	519	Tshuapa-Lomami-Lualaba Conservation Landscape
+31396514	36	Gibbsville, Wisconsin
+31416514	103	Paiania (training ground)
+31419514	36	Polymesoda caroliniana
+31424514	62	Needmore, Pennsylvania
+31435514	16	Kant-Studien
+31439514	16	Piedade, Rio de Janeiro
+31461514	92	Park Jun-hyuk
+31466514	2539	Jennings v Rice
+31487514	256	Neuropathy target esterase
+31494514	608	Organocerium chemistry
+31515514	143	2010-11 SPHL season
+31530514	78	Umayodus
+31556514	76	Niall mac Fergal Oge O hUicinn
+31567514	269	Famous Food
+31568514	284	Western Christian High School (Hull, Iowa)
+31582514	63	South Korean presidential election, 1963
+31583514	257	Lancaster City Council election, 2011
+31594514	258	List of Old West gangs
+31598514	225	Dedication of Saints Peter and Paul
+31608514	73	Coleophora spumosella
+31621514	1133	Ritz Theater (Newburgh, New York)
+31644514	260	Sophie of Brunswick-LÅneburg
+31651514	221	Muradup, Western Australia
+31653514	988	Stannah Lifts
+31673514	137	Trevor Reader
+31675514	193	John Henry Colclough
+31679514	413	Chester Jeep
+31686514	350	Jarbom Gamlin
+31706514	205	Free and Easy (1941 film)
+31714514	201	Age of the Joker
+31734514	64	Lily Festival
+31739514	2501	FARC files
+31753514	20	Jakub Orsava
+31757514	2594	Uttar Pradesh Legislative Assembly election, 2012
+31771514	890	2011 Manhattan terrorism plot
+31812514	27	Ramonda
+31825514	409	Christian Molsted
+31832514	158	Nicholas Winmar
+31836514	10	Fairplay, Pennsylvania
+31841514	293	Idi b. Abin Naggara
+31845514	533	October Road (James Taylor album)
+31848514	82	Jahangir Quli Beg
+31852514	250	Malmî Konsthall
+31869514	327	Guemes Island ferry
+31885514	44	Jim Campbell (pinch hitter)
+31886514	166	Firefall (album)
+31914514	112	List of special tribunals and courts
+31922514	128	Stuffed chine
+31941514	288	Graduate School of Management (GSM Barcelona)
+31944514	283	Hank Mason
+31953514	112	Little David Wilkins
+31958514	23	GÅvenkîy
+31960514	152	Madonna of the Quail
+31964514	941	A Better Life
+31965514	43	Stroudwater Historic District
+31968514	300	Abermawr
+31983514	135	Via Dolorosa: Songs of Redemption
+31990514	28	Sao Paulo de Olivenáa Airport
+31995514	475	Athletics at the 2012 Summer Olympics - Qualification
+31998514	558	Transalpine campaigns of the Old Swiss Confederacy
+32001514	130	Juan JosÇ GÅemes
+32022514	137	Barber Block
+32029514	25	Le Secret (Reissue)
+32039514	36	Poi, Wallis and Futuna
+32043514	621	John Finlayson (disciple)
+32066514	350	Tennessee State Route 59
+32082514	279	Ryan Tocher
+32088514	133	Section house (railway)
+32099514	182	Charles Miller (director)
+32100514	730	Phyllis Wiener
+32134514	334	Love Has No Recession
+32137514	729	Michael Hogan (cricketer)
+32151514	371	French India Students Congress
+32165514	488	Ulrich of Hardegg
+32180514	259	Body Complete
+32184514	74	Sri Medananda Daham Pasala
+32188514	81	Anatomy of a Marriage
+32198514	260	Alexander Yellen
+32205514	494	Koh-Lanta (season 11)
+32218514	51	John Peachey
+32222514	328	Celebrity Autobiography: In Their Own Words (play)
+32228514	412	1892 All-Ireland Senior Hurling Championship Final
+32229514	353	Pere Leib Tartu
+32230514	590	Ludwig Camerarius
+32234514	653	Phillip Jacobson
+32236514	33	Jakub Kania (ice hockey)
+32237514	297	Tongan religion
+32273514	191	Minisci reaction
+32274514	275	Roseman University of Health Sciences
+32304514	181	Streamcore
+32333514	15	Morganti
+32361514	424	Sheila Frazier
+32367514	1165	Eliane Reyes
+32370514	273	2011 CritÇrium International
+32374514	176	Charles Bierstadt
+32388514	128	1948-49 Southern Football League
+32389514	17	Xyroptila ruvenzori
+32398514	106	Charles Alfred Strange
+32400514	275	Amy Turek
+32401514	110	Richard Jenkyns
+32406514	179	Une ravissante idiote
+32412514	49	Margumay
+32431514	107	Sa Sandaling Kailangan Mo Ako
+32445514	315	Jannik Vestergaard
+32460514	43	Cephalotes haemorrhoidalis
+32464514	32	H. scandens
+32481514	61	Frederick Taylor (golfer)
+32486514	349	Mansfield Lahm Air National Guard Base
+32541514	445	The British School of Quito
+32561514	53	Colour Experience
+32566514	752	2011-12 Toledo Walleye season
+32586514	22	Silafluofen
+32598514	371	Iowa Pacific Holdings
+32604514	35	1981 Hardy Cup
+32629514	428	Community Living British Columbia
+32630514	212	Marion Lush
+32635514	24	Baptist Sabit Frances
+32647514	51	Vavanga
+32658514	601	Molokovsky District
+32659514	1316	Kirillovsky District
+32662514	22	(65666) 1987 RU
+32682514	123	Booty Wurk (One Cheek at a Time)
+32686514	327	Michael A. DiSpezio
+32711514	43	Dreznica
+32712514	87	Ascalenia acaciella
+32714514	29	Hospital of Maudes
+32747514	28	Trnovac
+32795514	48	Qomrud Rural District
+32808514	337	South School (Yellow Springs, Ohio)
+32819514	76	Adam Clarke (cricketer, born 1984)
+32847514	31	Buckhorn Corners, Illinois
+32862514	19	Antonio Broso
+32863514	216	Travel Technology Interactive
+32891514	62	Masayuki Kawamura (golfer)
+32896514	13	Yatategi Sabo Dam
+32898514	27	K. S. N. Venugopalu
+32904514	46	Around the Clock (song)
+32912514	754	Pedro Reyes (artist)
+32913514	354	Jason Ross Jallet
+32924514	13	Athletics at the 2007 All-Africa Games - Women's pole vault
+32935514	189	Swimming at the 2011 Pan American Games - Women's 400 metre individual medley
+32946514	96	Chris Hundelt
+32970514	14	Pazaragaá, Äay
+32979514	84	National Register of Historic Places listings in Braxton County, West Virginia
+32990514	48	Juan Alvarado Marin
+32992514	37	1958-59 Austrian Hockey League season
+33023514	789	Migdalia PÇrez
+33031514	68	Of Time, Work, and Leisure
+33041514	72	Strathcona Refinery (Imperial Oil)
+33044514	7	Schwarzach (Danube)
+33052514	950	Central Asian Orogenic Belt
+33055514	31	(24784) 1993 TV12
+33060514	419	Caeroesi
+33068514	242	Battle of Biberach (1796)
+33104514	7	Bakassouck
+33111514	29	(73695) 1991 RL17
+33117514	109	Rowing at the 2011 Pan American Games - Men's quadruple sculls
+33134514	116	Kurtis Gaskell
+33136514	6	Hundkatzemaus
+33138514	13	Demelza
+33140514	46	Rosedinnick
+33148514	40	Rote Rosen (TV series)
+33154514	31	Siboniso Gumede
+33173514	12	Kizildere, Ceyhan
+33174514	22	Gehaz El Reyada Stadium
+33175514	15	Akdam, YÅregir
+33188514	547	1988 Cotton Bowl Classic
+33190514	197	Lucy Rahman
+33191514	104	Emma Rayne Lyle
+33196514	5910	Unmanned NASA missions
+33215514	14	Elachista catalunella
+33220514	50	Coso County, California
+33242514	70	List of animated feature films of the 1970s
+33251514	259	Italian Libya Railways
+33258514	28	La vedova e il piedipiatti
+33259514	101	Igreja da Madalena
+33280514	246	Walter Carroll
+33288514	2511	Son of God (TV series)
+33291514	422	Chinese people in Namibia
+33293514	94	Crooked Forest
+33296514	555	Mercer University School of Medicine
+33323514	18	Grenko spoznanje
+33327514	436	Power outages in Malaysia
+33341514	120	Mihran Azaryan
+33349514	281	Alena Polensk†
+33391514	258	Natural High (Bloodstone album)
+33393514	441	Westwood, Wiltshire
+33396514	697	Annakodi
+33419514	10	Byangsi language
+33428514	965	Foráa de um Desejo
+33438514	282	2011 Pakistan Premier League
+33446514	246	Biabas
+33461514	13	Slatina (Novi Pazar)
+33466514	91	Flight commander (disambiguation)
+33474514	23	Nisevac
+33476514	26	Suvo Selo
+33488514	507	California A.B. 1215
+33505514	104	National Society of Film Critics Awards 1971
+33516514	64	Gilles Lelievre
+33522514	93	Daryl Townsend
+33534514	97	Maria Rita Epik
+33541514	879	1906-17 Stanford rugby teams
+33546514	2434	History of deaf education
+33569514	105	Raymond de PÇreille
+33579514	70	2011 BÅschl Open - Singles
+33584514	187	Thomas Berkeley
+33597514	89	Dorsington
+33675514	440	Walter Tunbridge
+33679514	440	Atlantic stargazer
+33680514	253	Hush Little Baby (Wretch 32 song)
+33723514	31	T. gardneri
+33729514	201	The Natalie Cole Collection
+33741514	161	Time Being (Peter Erskine album)
+33757514	978	Perrinsville School
+33786514	76	Kentucky Route 49
+33800514	39	Balika Badhu
+33816514	25	List of communes of the Province of Novara
+33820514	888	Kerri-Anne Kennerley
+33831514	72	2010 Al Habtoor Tennis Challenge - Singles
+33847514	29	Alex Barbour
+33848514	126	Preissman's theorem
+33856514	68	Darren Hughes (Gaelic footballer)
+33877514	86	Tracey Martin
+33882514	400	Es muss nicht immer Kaviar sein (TV series)
+33887514	1594	Cathy Ames
+33889514	332	United Nations Security Council Resolution 1814
+33917514	9	Deutscher Schulbuchpreis
+33940514	48	Tyttocharax
+33959514	341	Bill Zender
+33963514	124	1977 British motorcycle Grand Prix
+33972514	478	Joan Sterndale-Bennett
+33979514	351	Sicyases sanguineus
+33980514	376	List of programs broadcast by CJON-DT
+34010514	1561	Henry Monckton
+34051514	908	Islay (novel)
+34144514	224	Adam Benjamin (musician)
+34164514	1393	Journal of a Crime
+34169514	41	Marian Kozicki
+34177514	105	December Moon
+34202514	126	William Ward (Utah architect)
+34222514	756	Salimullah Khan
+34255514	52	Tilak Nagar railway station
+34308514	65	2012 McGrath Cup
+34333514	58	Fata Salkunic
+34337514	62	1920 Norwegian Football Cup
+34341514	249	Arthur W. Sterry
+34351514	253	Dark Sky Observatory
+34361514	227	Nasser Abul
+34363514	27	United Nations Security Council Resolution 2028
+34384514	29	Bernard Sladden
+34390514	187	Philip Oakes
+34397514	9	Suillia flava
+34417514	76	Hrebinky
+34454514	102	Mississippi State Axion Search
+34468514	2543	Early 2012 Hong Kong protests
+34480514	349	Athletics at the 1984 Summer Olympics - Women's 800 metres
+34486514	55	Ai Takabe
+34524514	51	Minister for Health and Social Services
+34525514	94	Iona Gaels baseball
+34531514	38	Kabelo Dembe
+34538514	737	Willem River
+34541514	44	Marsh Rainbow Arch Bridge (Chippewa Falls, Wisconsin)
+34542514	48	Warszawa Wola Grzybowska railway station
+34546514	104	Saskatoon Media Group
+34551514	37	Eynatan
+34552514	37	Seyl Reza
+34556514	775	Velocity Moments
+34563514	28	Heras
+34567514	223	êtienne Fessard
+34574514	832	The Great Wilderness
+34575514	628	A.R.E.S.: Extinction Agenda
+34584514	114	Kangalin Vaarthaigal
+34589514	31	Rumatha jacumba
+34593514	423	Jeff Dean
+34605514	241	Glencairn's rising
+34609514	37	P. viticola
+34663514	459	Thick Syrup Records
+34672514	18	William Slingsby (disambiguation)
+34681514	51	Top Gear: 100 Fastest Cars
+34719514	131	Folk Soul Revival
+34728514	713	NACA Report No. 964
+34736514	16	Titanoceros heliodryas
+34738514	369	George W. Lakin
+34740514	124	Flag of Herefordshire
+34759514	36	Klimeschiola
+34773514	1086	List of protected areas of Thailand
+34776514	60	Poliomintha
+34815514	133	Nissan Invitation
+34832514	857	Melvin Ember
+34836514	10	List of Canadian films of 1994
+34842514	18	BJK (disambiguation)
+34843514	454	The Riots
+34854514	116	Teratophon
+34863514	200	Felicidad y Perpetua
+34899514	284	Google Help Forums
+34911514	465	People Resources and Conservation Foundation
+34930514	143	EScreeningz
+34932514	51	Louis Marchetti House
+34943514	122	Yoshiikeonsenmae Station
+34948514	633	Knowledge based community sharing system
+34949514	54	2006 Delray Beach International Tennis Championships - Doubles
+34956514	722	Kansai Music Conference
+34969514	148	Macrophage (ecology)
+34976514	6522	History of Vietnam since 1945
+35008514	131	Till the Sunrise
+35012514	281	Pechora Radar Station
+35023514	34	Voiced uvular affricate
+35030514	54	Invisible Wonder Games
+35034514	293	2012 World Junior Championships in Athletics
+35039514	613	Jack Johnson and Friends - Best of Kokua Festival
+35049514	3447	Kandahar massacre
+35080514	440	Overtone band
+35110514	24	Oliver Sutton
+35119514	29	List of Late Night with Conan O'Brien episodes (season 1)
+35125514	115	Donald Finlayson
+35131514	39	Tom Dermody
+35169514	339	Henry Nugent Bell
+35176514	158	Jacqueline Bouvier Kennedy Onassis Hall
+35194514	248	Giuseppe Antonio Torri
+35197514	122	2003 Coppa Italia Final
+35217514	298	End Play
+35222514	85	Gobindobhog
+35230514	46	Creekmore
+35232514	22	Aznab
+35243514	55	Askbot
+35262514	144	Philippe-Jacques Abraham
+35278514	155	Eva Widermann
+35284514	73	Black Sky: The Race For Space
+35285514	110	Fresh Breeze Simonini
+35287514	8	Pseudoalteromonas distincta
+35293514	826	Railfan &amp; Railroad
+35301514	50	Walt Gilmore
+35322514	201	Neill Byrne
+35334514	123	El N£mero Uno
+35336514	405	Perth and Kinross Council election, 2012
+35346514	27	Dan Karabin
+35464514	278	The First Sontarans
+35489514	588	Thomas Bak
+35515514	585	Hit List (2012 American film)
+35556514	17	Qelichabad
+35562514	169	Prem Geet
+35567514	24	Sami Uotila (skier)
+35574514	21	Aihui Town
+35577514	43	Fawley Tunnel
+35595514	60	2011-12 Jack&amp;Jones Ligaen
+35597514	34	Alaqeband
+35605514	20	Shahrak-e Mustafa Khomeyni
+35631514	144	1981 NCAA Division I Baseball Tournament
+35638514	8	Karol Ignacy Lorinser
+35668514	181	Louisiana Highway 471
+35670514	223	Arplast Micro'B
+35673514	59	Hastings Constitutional Law Quarterly
+35739514	275	Green v Lord Somerleyton
+35746514	477	Package principles
+35752514	673	2013 World Mixed Doubles Curling Championship
+35754514	285	Country, God or the Girl
+35771514	31	Practice management software
+35803514	29	Scopelengys
+35825514	163	Lake Ruby
+35837514	329	William Burley Lockwood
+35840514	487	Inocybe salicis
+35844514	136	Setiostoma dietzi
+35852514	56	Mordellaria
+35856514	44	Darreh Abbas, South Khorasan
+35862514	22	Stenalia merkli
+35863514	38	List of listed buildings in Kilmacolm, Inverclyde
+35868514	22	Mordellistena corporaali
+35869514	23	Mordellistena humerifera
+35871514	32	Pavel Richter
+35872514	41	List of listed buildings in Cross And Burness, Orkney
+35873514	45	List of listed buildings in Kildalton And Oa, Argyll and Bute
+35877514	30	Electoral results for the district of Warwick
+35886514	160	The House in Montevideo (play)
+35901514	20	Navosoma
+35913514	24	Adrian Berce
+35915514	8	Transfusion (song)
+35926514	38	Kalateh-ye Tappeh
+35942514	346	Amanda Sudano
+35946514	146	MTR Service Update
+35962514	171	List of buildings and structures illustrated on banknotes
+35963514	24	Mostafa Anwar
+35984514	25	Koreshk
+36034514	36	Water Planet
+36051514	21	JosÇ Alvarez Crespo
+36066514	32	Copelatus geniculatus
+36069514	7	Swann, West Virginia
+36080514	536	Jackson League
+36081514	11	Sredska
+36098514	52	Miriam Shearing
+36102514	203	Alain CaillÇ
+36108514	399	Annette Langen
+36114514	325	êdouard Hocquart
+36117514	939	Winfred Blevins
+36119514	36	Amaliânstein
+36130514	38	Hoseynabad-e Sistaniha
+36146514	12	Arthur Andrew (disambiguation)
+36148514	41	Ermilate
+36166514	39	Imindounit
+36169514	356	Eremita
+36175514	168	AD Os Limianos
+36189514	2094	Bring It On the Musical
+36192514	1888	Sun (Cat Power album)
+36200514	39	Ibdar
+36216514	18	Batus barbicornis
+36217514	18	Oxymerus lineatus
+36227514	500	Malay world
+36247514	30	Gol Sheykh
+36254514	782	National Capitol Radio &amp; Television Museum
+36259514	150	2011-12 Liga Indonesia Premier Division second round Group B
+36331514	21	
+36345514	359	Ycf9 protein domain
+36359514	59	Kaegi
+36362514	74	Overbrook School
+36366514	41	Qarah Mohammad
+36382514	36	Biogenesis (disambiguation)
+36386514	13	Chah-e Salari
+36397514	251	Michael Reed (cricketer)
+36412514	396	Jaro FÅrth
+36413514	575	Rectangle (label)
+36414514	13	Christian Ringnes
+36415514	24	Aralik, Boráka
+36425514	49	Cambodian laughingthrush
+36436514	2463	Halo 4: Forward Unto Dawn
+36452514	53	Lepidochrysops cinerea
+36478514	335	R.J. Harwood
+36481514	231	A. W. Jenkinson Forest Products
+36482514	61	1998-99 Western Football League
+36485514	37	Fasanqar
+36494514	27	Charlotte Massardier
+36514514	309	Lucrezia Marinella
+36533514	197	Grenada College
+36539514	29	Dedi Indra Sampurna
+36541514	23	Antiikkia, antiikkia
+36548514	14	Alancik, VezirkîprÅ
+36574514	286	Adnan Kapau Gani
+36575514	63	Curtis Cross House
+36576514	96	Alkabo School
+36596514	41	Azad Deh, Razavi Khorasan
+36626514	6	Lennart Larsson (Malmî FF footballer)
+36628514	266	Artelius
+36639514	153	List of Sussex County Cricket Club grounds
+36645514	93	Sturm und Drang (play)
+36647514	28	Raigo Toompuu
+36659514	97	1987 South American U-20 Championship
+36668514	105	1988 South American U-20 Championship
+36669514	388	Antipathes
+36673514	52	Richard Varga (triathlete)
+36682514	1470	Shadow Council
+36705514	40	Shashi Bhusan Behera
+36714514	39	Mishi
+36720514	765	Divis transmitting station
+36721514	34	Djet Donald La'ala
+36735514	27	Vanover
+36736514	508	Paradox Development Studio
+36766514	20	John Noseworthy (disambiguation)
+36768514	378	Melanie Benjamin (author)
+36770514	386	Ganbare Nippon
+36772514	952	Lady Carla
+36791514	17	Willis Branch, West Virginia
+36807514	155	Nicholas d'Oisy, Lord of Avesnes
+36815514	255	Forgotten (2012 film)
+36826514	272	Osvaldo Peredo
+36843514	96	Scarborough West (provincial electoral district)
+36846514	199	Dr. Champ
+36859514	26	David Oberhauser
+36862514	154	Piloersemaborg
+36879514	374	Branko Kadia, Jordan Misja and Perlat Rexhepi
+36882514	177	Cyril Tucker
+36909514	29	Maury Bodenger
+36916514	122	Bronwyn Marshall
+36933514	1812	Girl on Fire (song)
+36947514	49	Shukhrat Maksudov
+36951514	91	Equestrian at the 2012 Summer Paralympics - Individual championship test grade III
+36961514	105	This Thing Called Love
+36967514	286	Smiling in a War Zone
+36972514	859	List of Big Brother Australia housemates (2004 series)
+36986514	25	Gelalak
+36997514	23	Stephen Sowerby
+37044514	255	Siegfried's Dale Farm
+37060514	25	Lachnocnema intermedia
+37070514	292	Luke Bryan discography
+37071514	194	Danny D
+37087514	497	Department of Backward Classes, Most Backward Classes and Minorities Welfare (Tamil Nadu)
+37091514	253	Luther Rabb
+37108514	559	Vocea RomÉniei (season 2)
+37116514	133	Shock Treatment (1964 film)
+37120514	37	Shahrak-e Vahdat, Khuzestan
+37129514	382	Mina Gerowin
+37137514	458	Yuriko Doi
+37157514	126	Mìng Duong
+37173514	297	Maine State Route 17
+37174514	75	Linda Nordlund
+37176514	90	Hans Peter Elisa Lodrup
+37187514	39	Darkul Darhuni
+37195514	20	Pawel Olszewski (pentathlete)
+37219514	81	United Realty Partners
+37256514	149	Grinder's Switch Featuring Garland Jeffreys
+37258514	232	JacksGap
+37259514	607	Yarim-Lim I
+37261514	66	1533 in India
+37265514	114	Until the Last Day
+37309514	116	Manuel Fern†ndez Caballero
+37334514	34	Bakarjulan
+37369514	219	Kari Skjonsberg
+37424514	37	Wooters, Texas
+37428514	126	Peter Taylor Farmstead
+37429514	84	Demazure conjecture
+37431514	379	Dinosporin
+37441514	118	Progressive Hong Kong Society
+37482514	18	Psychostrophia
+37526514	262	Waterloo Road (series 2)
+37545514	15	Cyllecoris marginatus
+37551514	151	Nadine, Countess of Shrewsbury
+37559514	22	Hiromori
+37617514	145	Feeling Sexy
+37633514	2073	2013 NASCAR Nationwide Series
+37671514	330	Cambrian Stage 10
+37674514	168	Monk Little Dog
+37675514	111	Emerald Theatre
+37683514	17	Nebria talassica
+37684514	224	Let the Cowboy Rock
+37711514	110	Joachim Nshimirimana
+37717514	2152	Samuray del Sol
+37718514	63	1985 Geneva Open - Singles
+37726514	195	Chrysostoma paradoxum
+37730514	36	Arunava Sen
+37733514	804	Jack Gallagher (wrestler)
+37763514	35	Dar Tujan
+37770514	253	2013 OFC U-20 Championship
+37781514	155	Norton Parish, New Brunswick
+37811514	336	2010 FIVB Volleyball Women's World Championship qualification (CEV)
+37817514	24	Orthaga icarusalis
+37818514	812	Prymorske, Kiliya Raion
+37826514	277	Free Dimensional
+37859514	18	Homala integricollis
+37863514	262	Astele armillata
+37867514	18	Maij
+37885514	139	Walter Newman (civic figure)
+37892514	32	Mastu
+37901514	162	Vicki C. Jackson
+37909514	37	Gishnu
+37913514	66	Frances Ann Stewart
+37929514	115	Hugh Lafferty
+37931514	23	Heybeli, Sason
+37939514	16	Hans Pedersen (disambiguation)
+37944514	55	Chilakamukhi
+37952514	165	Missing You (Hong Kong TV series)
+37959514	33	DJ Skudero
+37972514	476	Picatic
+37998514	51	Scrub Creek, Texas
+38005514	53	Sian-e Olya
+38026514	31	Christmasville, Carroll County, Tennessee
+38054514	330	Tsholofelo Thipe
+38066514	89	Salvador Suláe
+38077514	31	Lucia Medzihradsk†
+38097514	44	1994 Stanford Cardinal football team
+38166514	17	Scopula palleuca
+38181514	13	Gaztaf
+38187514	206	Oeneis uhleri
+38189514	104	Heyran village, Astara
+38190514	31	Athletics at the 2006 Central American and Caribbean Games - Men's 4 x 100 metres relay
+38193514	45	First Methodist Protestant Church of Seattle
+38204514	126	Mark Vitalis
+38211514	42	(R)-benzylsuccinyl-CoA dehydrogenase
+38216514	40	Charles Appleton
+38233514	678	House of Laval
+38243514	40	Wanz (disambiguation)
+38244514	29	Pugachyovsky
+38253514	171	VoiceX
+38271514	125	Nakuul Mehta
+38272514	299	Kagawa Prefectural Kikaku park
+38279514	290	Nokia 206
+38283514	344	Lambert ten Kate
+38292514	34	Rah Hamvar
+38302514	40	Asleh
+38321514	51	Te'o
+38324514	2173	Last Lunch
+38325514	267	Cyrille Cottin II
+38332514	1559	Czarface
+38363514	52	1868 Brazilian political crisis
+38368514	131	Henriette Mathiesen
+38406514	285	Let Yourself Go (James Brown song)
+38421514	326	AN/MPQ-2
+38427514	520	AMAI Ayurveda Medical Association of India
+38468514	231	Arkwright, Rhode Island
+38484514	716	Glenn Keeney
+38489514	73	Athletics at the 2002 Asian Games - Men's 800 metres
+38555514	28	Dejan Zivkovic
+38579514	53	Panagaeus fasciatus
+38582514	31	Mordella inornatipennis
+38587514	33	Seyfabad, Borujen
+38594514	177	Victorian State League Division 4
+38599514	34	Jamalabad, Chaharmahal and Bakhtiari
+38601514	384	Battle of Safira
+38608514	500	The House of the Vestals
+38614514	307	Dodecapharmacum
+38626514	86	List of amphibians of Metropolitan France
+38639514	85	Ougarta
+38660514	513	NOW Foods
+38687514	112	Mukesh Gadhvi
+38688514	72	Kenya Senate election in Turkana, 2013
+38689514	488	List of North American cities by number of major sports championships
+38694514	100	Connecticut's 140th assembly district
+38720514	32	Salariyeh
+38722514	39	Tolombeh-ye Ashayiri Hasan Karimi
+38749514	87	Muir Central College
+38750514	76	Mou Waho Island
+38766514	375	Florin Cezar Ouatu
+38772514	17	Watson, West Virginia
+38801514	20	Hypermastus peronellicola
+38808514	80	Thomas and Mary Hepworth House
+38819514	34	Clos (surname)
+38822514	2303	Alain Kirili
+38857514	133	William Wrightson
+38858514	80	Coin watch
+38863514	35	Naimabad, Fahraj
+38864514	656	Queloides
+38895514	368	Stas Maliszewski
+38896514	36	Two Guys Abroad
+38906514	56	Paulo CÇsar Saraceni
+38911514	1906	Foo Fighters live performances
+38922514	17	Ethiopic Extended
+38928514	35	Dehkadeh, Kerman
+38951514	243	The Checklist Manifesto
+38954514	62	Tr?n C?o (king)
+38955514	1510	Sean M. Decatur
+38961514	26	Mr. Australia
+38971514	54	Thomas Stevenson (cricketer)
+38982514	115	Ushakovsky
+38985514	87	Peristomium
+38998514	14	Eupithecia aliena
+39003514	140	Cleveland Hall (Nashville, Tennessee)
+39025514	246	Murfreesboro High School
+39050514	149	Seaway Mall
+39055514	476	Steven Drobny
+39081514	367	Jordan Rapp
+39082514	19	Trechus galianus
+39089514	89	Asteismus
+39106514	451	Trial of Strength
+39110514	58	More Than Anything in the World
+39111514	41	Estil Lagoon
+39117514	29	Abdellah el-Ayachi
+39134514	115	1999 Bank of the West Classic - Doubles
+39176514	19	Acqui Terme railway station
+39177514	216	Mozart's House
+39180514	171	Susy De Martini
+39192514	184	Hortense Flexner
+39207514	246	Lina Nyberg
+39211514	511	Informal inferential reasoning
+39227514	122	Dinuk Wijeratne
+39230514	136	Whalers Cabin
+39280514	136	Gottfried Grote
+39289514	227	Hubcap Music
+39312514	71	Electoral district of Sandhurst South
+39333514	16	Micrulia rufula
+39346514	148	Sarwat Nazir
+39351514	38	Donn (surname)
+39403514	122	Farleigh Hill
+39418514	22	Putyvl Raion
+39422514	272	An Evening with Shane &amp; Shane
+39423514	192	Manitou Bathhouse
+39430514	134	Esmont
+39434514	969	Danakil (band)
+39484514	274	The Homesman
+39489514	162	1899 in Scotland
+39493514	30	Brian Taylor (footballer born 1949)
+39499514	134	Jenny SalÇns
+39522514	167	Lights Out Tour
+39527514	158	Melissa Ponzio
+39535514	43	Early College High School (Laredo, Texas)
+39569514	74	Ramit Tandon
+39573514	90	Grigori Kuzmin
+39582514	24	Thomas M. and Bridget Blackstock House
+39597514	80	Kimberley College
+39601514	50	Mathews, Alabama
+39653514	32	Chess at the 2013 Summer Universiade
+39687514	91	Divan Istanbul
+39710514	416	1999-2000 S.L. Benfica season
+39711514	28	Karkareh, Kermanshah
+39712514	370	William Braikenridge
+39714514	38	Qaleh-ye Najaf Ali Khan
+39718514	77	Moa (name)
+39730514	958	Roger Dowson Engineering
+39742514	24	Becanovic
+39748514	135	Lisa de la Motte
+39754514	41	Presbyterian Church in Korea (NamBuk)
+39755514	46	Departmental
+39760514	545	Nigel Sears
+39776514	53	Forty Boys and a Song
+39827514	299	Dominic Roque
+39834514	50	Dulangan-e Sofla
+39838514	95	Na (Javanese)
+39854514	117	Tiberiu Popoviciu
+39862514	202	Bobley Anderson
+39882514	33	Dewey C. Bailey
+39890514	308	Puyuma Express
+39894514	36	Tales of Terror (disambiguation)
+39916514	291	Burgh Westra
+39925514	34	Frank van Soldt
+39939514	46	Qaleh-ye Bani-ye Mushemi
+39955514	21	Hermannsson
+39962514	45	Barzillai Jones
+39972514	21	Ailanthone
+39974514	369	2014 FIVB World Grand Prix
+39980514	61	Gemini Syndrome
+39981514	41	Springbok Flats mine
+39993514	141	Zinda (song)
+39998514	13	Dumagat
+40022514	22	Miller (Middlesex cricketer)
+40035514	909	Roberto Donis
+40051514	156	Shpat Deda
+40056514	45	River View High School
+40059514	50	Nartkala (disambiguation)
+40063514	70	Maxim Demin
+40082514	1110	Racine CarrÇe
+40095514	16	Jean-Claude Boulanger
+40113514	526	ND Mura 05
+40123514	39	Mongol invasion of Bulgaria
+40127514	733	William Cullen Wilcox
+40130514	73	JosÇ Rosas Aispuro
+40134514	330	Toby Saks
+40142514	246	Automotive industry in Kenya
+40146514	554	Kukere
+40154514	77	Samuel Friebele
+40173514	17	Borrelia andersonii
+40178514	19	Amblytelus weiri
+40179514	42	Binab, Zanjan
+40187514	186	Lawrence Schick
+40191514	36	Hebrew Union College Annual
+40195514	589	Otto C.C.Lin
+40197514	65	Grade II* listed buildings in Thurrock
+40200514	127	In My Wildest Dreams (disambiguation)
+40204514	165	Anwar Kamal Pasha
+40205514	1939	Tennis Court (song)
+40220514	40	Jean JÇrìme (disambiguation)
+40222514	222	Sarah Wylie
+40241514	46	FC Krasnodar-2
+40245514	526	Mani Martin
+40266514	83	Katarzyna Kawa
+40267514	44	Adam Golde
+40269514	73	Apam balik
+40272514	97	List of elections in 2017
+40291514	44	Qeshlaq-e Qarah Kakil Ayaz
+40311514	19	Lesticus brevilabris
+40324514	13	Bagheshlu
+40362514	67	Kyyneleet
+40386514	57	Kim Tae-ho (footballer)
+40393514	49	Lawing, Alaska
+40395514	22	Yuki Hashimoto
+40397514	286	Rein Gold
+40401514	797	Paean (horse)
+40408514	185	Terell Ondaan
+40455514	40	Masjed-e Mahalleh
+40461514	152	Shexingshan, Shuangfeng
+40472514	33	List of highest funded crowdfunding projects
+40491514	24	Anarsia gajiensis
+40508514	691	Juvenile Diabetes Cure Alliance
+40513514	22	Bhucanana
+40522514	60	List of fauna at Toro Negro State Forest
+40549514	16	Isodon
+40561514	18	Ali Beygluy
+40588514	106	Frank Bois
+40602514	105	Skrzyczne TV Tower
+40619514	182	Der Kreidekreis (opera)
+40634514	23	Michas
+40643514	246	University of Sydney Quadrangle
+40645514	17	Mesophleps ochroloma
+40654514	102	Carlos Clerc
+40655514	1832	List of populated places in Manisa Province
+40690514	370	SandskÑr
+40709514	306	Purcell O'Gorman
+40711514	121	Silvio Noto
+40718514	113	Michaela Matejov†
+40736514	37	Yaychi, West Azerbaijan
+40794514	253	Brandon Cash
+40801514	43	Pih Jik
+40920514	344	Seamus McGrath
+40921514	22	Anacrusis securiferana
+40940514	209	Luo Hongxian
+40942514	381	ZUFARI: Ride into Africa!
+40965514	127	Michel Las Vergnas
+40998514	34	Varazan
+41019514	230	Oakland University William Beaumont School of Medicine
+41028514	78	Swimming at the 1999 Pan American Games - Men's 1500 metre freestyle
+41032514	68	Red Bull BC One USA Qualifier
+41040514	120	Verdun Aerodrome
+41047514	696	Kim Sun-kee
+41052514	35	Lamzer
+41057514	34	Fred Mutch
+41065514	43	Bowling at the 2006 Asian Games - Women's team
+41075514	41	Alaki Sahra
+41085514	34	Fashtakeh
+41089514	35	Jack Morrissey (footballer)
+41128514	139	Bommalattam (TV series)
+41134514	656	Bismarck: The Man and the Statesman
+41221514	23	Aeromonas bivalvium
+41230514	522	Vesna de Vinca
+41233514	490	Juan Direction
+41238514	86	Paul Carey (cricketer)
+41239514	11	Gowrishankar
+41244514	403	John J. Miller, Jr.
+41253514	38	Abbas Jub
+41265514	151	GURPS Cliffhangers
+41271514	40	Leslie Pantoja Hern†ndez
+41273514	29	KLYR (AM)
+41275514	124	Choo Choo Hot Fish
+41293514	42	Sabri Raheel
+41303514	70	2013 in South Korean football
+41312514	152	Pac-Man Dash!
+41339514	400	Albert C. Triaca
+41346514	795	UFO Moviez
+41347514	267	MaryLynn Magar
+41380514	90	Alderbrook
+41390514	802	Noli me tangere Casket
+41393514	70	2014 Uzbek League
+41397514	407	A Taste of Killing and Romance
+41424514	28	Zhonglingjie Station
+41433514	32	HÇrisson (disambiguation)
+41437514	156	Taekwondo at the 2010 Asian Games - Women's 46 kg
+41447514	9	Calypsoeae
+41513514	144	Gasparo Martellini
+41536514	25	Franciszek Malinowski
+41538514	37	Dollmaker
+41551514	85	2014 Southeastern Conference football season
+41569514	37	Kichi, Jabal
+41572514	1068	Institute for Mediterranean Studies
+41598514	166	êamonn Kelly
+41640514	65	Gamalakhe United FC
+41652514	45	Dengezlu
+41653514	38	Pirasafneh
+41662514	45	Artillery Group 22 Garrison
+41672514	690	1921-22 Georgetown Hoyas men's basketball team
+41684514	162	Gilbert Pillsbury
+41700514	702	John Sheldon (anatomist)
+41711514	34	Ariane Lavigne
+41714514	30	Melvin White
+41727514	101	Yamaha XT200
+41739514	75	Mandurang
+41740514	83	Donovan Pedelty
+41756514	133	Cedric Cahill
+41763514	35	Moinabad, Kazerun
+41784514	38	Mazraeh-ye Aqa Hoseyn
+41795514	42	Neza-e Kuchek
+41806514	68	Kanes Sucharitakul
+41840514	286	Domingo Hindoyan
+41844514	35	Abraheh
+41857514	26	Sevenoaks Chronicle
+41871514	534	1999 Campeonato Brasileiro SÇrie C
+41878514	30	Metarctia lugubris
+41879514	67	Henri Monnot
+41883514	41	Amin's House
+41886514	515	2014 Virginia Tech Hokies baseball team
+41894514	199	Baird of Bute Society
+41896514	40	Chulung
+41905514	53	Franchot
+41929514	45	Reorganised Party of Labour of Albania
+41939514	51	Pakistan at the 1985 South Asian Games
+41952514	20	Matthias Triantafyllidis
+41960514	48	List of gold mines in Mongolia
+41962514	1144	Magic (Coldplay song)
+41979514	173	Huopanankoski
+41984514	24	Monosyntaxis montanus
+42008514	32	Plocamopherus imperialis
+42019514	26	Moustapha Quaynor
+42033514	399	Mansour al-Omari
+42050514	54	Richard O. Marshall
+42052514	493	Matthew Winkler (journalist)
+42064514	30	Gynnidomorpha datetis
+42080514	15	Lal Margh
+42122514	1144	St John Passion structure
+42144514	17	Franklin Township, Polk County, Iowa
+42146514	16	Amaurobius obustus
+42147514	61	Shooting at the 2002 Asian Games - Men's 25 metre standard pistol team
+42181514	91	2014 Eastern Michigan Eagles football team
+42201514	534	Nicknames of Portland, Oregon
+42210514	59	Uolbut
+42212514	835	Maximiliana Sebastiane Horne
+42226514	106	Burnt Oranges, Florida
+42265514	97	Los Zafiros (trio)
+42269514	57	What It Feels Like
+42281514	903	South Korea at the 2014 Summer Youth Olympics
+42312514	124	Tajja
+42323514	193	Automobile Centre (Auckland) Ltd v Facer
+42329514	89	Cranmer Green
+42332514	43	Noble Mathew
+42339514	117	Robert MacDonald (filmmaker)
+42351514	21	Trichromia apiciplaga
+42357514	59	Port Curtis colonial by-election, 1863
+42377514	53	Trischalis subaurana
+42389514	89	Tukes
+42426514	423	St. Patrick's Parish, Clare and Limerick
+42433514	1327	Proportional Myoelectric Control
+42468514	368	Erlenbach (Lauter)
+42469514	26	Zanola vivax
+42472514	304	Epochalism
+42476514	40	Panasonic Lumix DMC-TZ40
+42477514	195	Robert Spendlove
+42478514	143	Solomon Hirsch
+42501514	248	Gerard Leone
+42509514	9	O. D. Cheruvu
+42529514	182	CR No: 89
+42541514	15	Abraham Robarts
+42545514	109	Stordo Kisgruber
+42554514	164	Vikings in Georgia
+42565514	51	Amrita Lal Basu
+42590514	21	Grouvellina radama
+42599514	31	Jean Brunier
+42607514	423	Hungarian Republic (1919-20)
+42612514	149	NBA 2K15
+42615514	559	Fiji-Tuvalu relations
+42616514	68	Fistball Asian Championships
+42630514	17	Athletics at the 1999 Pan American Games - Men's marathon
+42637514	197	Akshay H. Mehta
+42646514	245	Heneage Gibbes
+42695514	44	Donald Jensen
+42747514	29	Anoncia psentia
+42776514	10	Ono Hawaiian BBQ
+42786514	27	Abras virus
+42831514	543	Evelyn Blackmon
+42838514	172	Branden Pinder
+42863514	28	1974-75 Indiana Pacers season
+42883514	15	Eryphus transversalis
+42896514	52	List of National Highways in India by new highway number by state
+42898514	215	Dylan Matthews
+42946514	17	Capua arrecta
+42965514	975	List of medical drama television programs
+42967514	242	Exceptional Minds
+42989514	403	Hansi Schmidt
+42997514	36	Butyriboletus abieticola
+42998514	1036	Joseph Pustylnik
+43029514	208	How Do I Get Close
+43034514	197	Portsmouth Academy building
+43035514	75	Martha Winch
+43071514	449	Kid606
+43073514	20	Acyphoderes cracentis
+43079514	14	Monument to Feodor Chaliapin
+43081514	82	Lungotevere della Farnesina
+43141514	12	Moritz Steinle
+43155514	119	XHUJED-TDT
+43160514	29	1886 in Spain
+43182514	188	Duo: Stephanie Ho and Saar Ahuvia
+43194514	57	Rosedale, Oregon
+43198514	34	Horizons (Kris Allen album)
+43201514	116	Gem County Courthouse
+43202514	82	Verity Simmons
+43210514	663	Nurbank murder case
+43211514	207	Malta at the 2014 Commonwealth Games
+43226514	96	Brian Evans (rugby union)
+43231514	90	Andreas Schillinger
+43232514	236	Kingsley (YouTube)
+43248514	18	Lawrence Shale
+43250514	20	Sagridola maculosa
+43253514	27	Acanthomyrmex mindanao
+43256514	95	Klaus von Nichtssagend Gallery
+43259514	16	Bursum Formation
+43264514	87	Cocoa Exchange
+43265514	40	Murak, Hama
+43278514	96	Mont Noir
+43297514	80	Ashleigh Lollie
+43309514	38	Shajar, Hama
+43326514	91	Sung-ha
+43357514	289	Karl Racine
+43366514	19	Old Pera Formation
+43372514	94	Bystranda
+43399514	90	Isodemis phloiosignum
+43407514	138	Portrait of Jeanne KÇfer
+43415514	18	Etroeungt Formation
+43422514	34	Sante Ciacci
+43425514	33	Juva (surname)
+43434514	59	Strip Magic
+43452514	47	United States Senate election in Arkansas, 1984
+43456514	45	Andrejs Osokins
+43471514	38	Azerbaijan at the 2014 FEI World Equestrian Games
+43478514	405	Maxwell Chambers
+43479514	58	Charlie Martin (Australian footballer)
+43484514	21	Calamotropha oculalis
+43514514	174	J. A. R. Anand
+43517514	53	Greg Adkins
+43519514	176	Georg Schambach
+43524514	68	Eddie Miles (American football)
+43534514	120	John Frechette
