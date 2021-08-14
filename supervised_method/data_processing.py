@@ -6,6 +6,9 @@ import pandas as pd
 import nltk
 import numpy as np
 from nltk.corpus import stopwords
+# 这里python常数的管理参考博客 https://github.com/home-assistant/core/blob/dev/homeassistant/const.py
+from const import (MAX_NUM_SENS, MAX_NUM_WORDS)
+
 
 # df = data = pd.DataFrame(np.arange(16).reshape((4, 4)), index=['Ohio', 'Colorado', 'Utah', 'New York'],
 #                          columns=['one', 'two', 'three', 'four'])
@@ -103,11 +106,11 @@ def padding(csv_workspace, raw_name):
         paragraph = eval(df.iat[i, 3])
         paras_len = len(paragraph)
         for j in range(paras_len):
-            if j == 40:
+            if j == MAX_NUM_SENS:
                 break
             sen_len = len(paragraph[j])
-            paragraph[j] = paragraph[j] + ['\\spance' for k in range(50 - sen_len)]
-            paragraph[j] = paragraph[j][:50]
+            paragraph[j] = paragraph[j] + ['\\spance' for k in range(MAX_NUM_WORDS - sen_len)]
+            paragraph[j] = paragraph[j][:MAX_NUM_WORDS]
         df.iat[i, 3] = paragraph
         if i % 1000 == 0:
             print(i)
