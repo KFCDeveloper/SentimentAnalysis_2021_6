@@ -6,7 +6,10 @@ import pandas as pd
 import nltk
 import numpy as np
 from nltk.corpus import stopwords
-from nltk.tokenize import WordPunctTokenizer
+
+# df = data = pd.DataFrame(np.arange(16).reshape((4, 4)), index=['Ohio', 'Colorado', 'Utah', 'New York'],
+#                          columns=['one', 'two', 'three', 'four'])
+# df = df[~df['one'].isin(['[[]]'])]
 
 
 def transfer_to_csv(file_path, workspace, file_name):
@@ -19,7 +22,7 @@ def transfer_to_csv(file_path, workspace, file_name):
     """
     df = pd.read_json(file_path, encoding="utf-8", orient='records')
     csv_name = file_name[:-5] + '.csv'
-    df.to_csv(workspace + '/data_processed/' + csv_name)
+    df.to_csv(workspace + '/data_processed/' + csv_name, index=False)
 
 
 def reformat(workspace, file_name):
@@ -80,12 +83,35 @@ def paragraph_process(line_review):
     return sen_list
 
 
-def clean_dataset(csv_workspace, csv_name):
-    df = pd.read_csv(csv_workspace + csv_name)
+def clean_dataset(csv_workspace, raw_name):
+    df = pd.read_csv(csv_workspace + raw_name + '_cleaned.csv')
     # 去除 verified  reviewTime  reviewerName  summary  unixReviewTime  vote  style  image  这些列
     # 只保留 overall  reviewerID  asin  reviewText
     df = df[['overall', 'reviewerID', 'asin', 'reviewText']]
-    df.to_csv(csv_workspace + csv_name[:-4]+'_cleaned.csv')
+    # 去掉有 Nah 的行
+    df = df.dropna(axis=0, how='any')
+    # 去掉为 [[]] 的行
+    df = df[~df['reviewText'].isin(['[[]]'])]
+    df.to_csv(csv_workspace + raw_name + '_cleaned.csv', index=False)
+
+
+def padding(csv_workspace, raw_name):
+    df = pd.read_csv(csv_workspace + raw_name + '_cleaned.csv')
+    # for 循环非常消耗计算资源  这篇比较非常棒 https://zhuanlan.zhihu.com/p/97269320
+    df_len = len(df)
+    for i in range(len(df)):
+        paragraph = eval(df.iat[i, 3])
+        paras_len = len(paragraph)
+        for j in range(paras_len):
+            if j == 40:
+                break
+            sen_len = len(paragraph[j])
+            paragraph[j] = paragraph[j] + ['\\spance' for k in range(50 - sen_len)]
+            paragraph[j] = paragraph[j][:50]
+        df.iat[i, 3] = paragraph
+        if i % 1000 == 0:
+            print(i)
+    df.to_csv(csv_workspace + raw_name + '_padding.csv', index=False)
 
 
 if __name__ == '__main__':
@@ -96,6 +122,11 @@ if __name__ == '__main__':
     # transfer_to_csv(data_re_path, dataset_workspace, dataset_name)
 
     # 清洗空白的行 和  不需要的列， 我们只需要 product_id  user_id  review_text
-    csv_workspace = './dataset/Amazon/huapa_workspace/data_processed/'
-    csv_name = 'test.csv'
-    clean_dataset(csv_workspace, csv_name)
+    # csv_workspace = '../dataset/Amazon/huapa_workspace/data_processed/'
+    # raw = 'Video_Games_5'
+    # clean_dataset(csv_workspace, raw)
+
+    # 将句子对齐，paper中说，句子数量最多40，一句的单词数量最大不超过50，max length 就是50
+    csv_workspace = '../dataset/Amazon/huapa_workspace/data_processed/'
+    raw = 'Video_Games_5'
+    padding(csv_workspace, raw)
