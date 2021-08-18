@@ -12,3 +12,16 @@ from typing import Final
 MAX_NUM_SENS: Final = 40
 # 一个句子含有的单词数量的最大值
 MAX_NUM_WORDS: Final = 50
+
+# 词嵌入的维度
+WORD_EM_DIM: Final = 200
+# 用户向量的维度
+USER_DIM: Final = 200
+# 商品向量的维度
+PRODUCT_DIM: Final = 200
+
+# 隐藏层 维度
+HIDDEN_DIM: Final = 100
+# 学习率
+LEARNING_RATE: Final = 0.005
+

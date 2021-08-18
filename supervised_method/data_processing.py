@@ -105,15 +105,19 @@ def padding(csv_workspace, raw_name):
     for i in range(len(df)):
         paragraph = eval(df.iat[i, 3])
         paras_len = len(paragraph)
-        for j in range(paras_len):
+
+        j = 0
+        for _ in range(paras_len):
             if j == MAX_NUM_SENS:
                 break
             sen_len = len(paragraph[j])
-            paragraph[j] = paragraph[j] + ['\\spance' for k in range(MAX_NUM_WORDS - sen_len)]
+            paragraph[j] = paragraph[j] + ['\\space' for k in range(MAX_NUM_WORDS - sen_len)]
             paragraph[j] = paragraph[j][:MAX_NUM_WORDS]
-        df.iat[i, 3] = paragraph
-        if i % 1000 == 0:
-            print(i)
+            j += 1
+
+        df.iat[i, 3] = paragraph[:j]
+        # if i % 1000 == 0:
+        #     print(i)
     df.to_csv(csv_workspace + raw_name + '_padding.csv', index=False)
 
 
@@ -133,3 +137,8 @@ if __name__ == '__main__':
     csv_workspace = '../dataset/Amazon/huapa_workspace/data_processed/'
     raw = 'Video_Games_5'
     padding(csv_workspace, raw)
+
+    # 截取 Video_Games_5_padding.csv 的前1000行作为 test_padding.csv,
+    # 因为跑完整的数据展开的时候太慢了，我先用1000行来debug应该够了
+    df = pd.read_csv(csv_workspace + raw + '_padding.csv')
+    df[:1000].to_csv(csv_workspace + 'test' + '_padding.csv', index=False)

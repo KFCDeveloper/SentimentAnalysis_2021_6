@@ -110,6 +110,11 @@ def deal_bgc(log_intermediate_bgc_filename):
 
 
 def get_bgc():
+    """
+    bgc : background corpus
+    :return:
+    """
+
     wiki_dataset_file_path = '../dataset/Wiki/' + 'database.txt'
     text_ids = []
     seq_ids = []
