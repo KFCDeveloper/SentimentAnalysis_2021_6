@@ -23,7 +23,7 @@ def prepare_tem(workspace, dataset_name, train_data_name):
     po_num = np.array(test_set_label_ne_op).sum()
     ne_num = all_num - po_num
     log_p_po = np.log(po_num / all_num)
-    log_p_ne = np.log(all_num - po_num / all_num)
+    log_p_ne = np.log((all_num - po_num) / all_num)
     # 生词 辞典，词和它对应的 两个先验概率，主要要加上laplace平滑
     # dic 的形式  'word':[po_num,ne_num,log_po,log_ne]
     dic = {}
@@ -62,13 +62,13 @@ def naive_bayes(sen):
     bayes_tem = np.load('../../dataset/Amazon/Jurafsky_workspace/Bayes/' + 'bayes_tem.npy', allow_pickle=True).item()
     dic = bayes_tem['dic']
     # 初始化待会儿要计算的后验概率
-    post_po = 0
-    post_ne = 0
+    post_po = bayes_tem['log_p_po']
+    post_ne = bayes_tem['log_p_ne']
     for w in sen:
-
-
-
-
+        if w in dic:
+            post_po += dic[w][2]
+            post_ne += dic[w][3]
+    return 1 if post_po >= post_ne else 0
 
 
 if __name__ == '__main__':
@@ -76,3 +76,5 @@ if __name__ == '__main__':
     data_name = 'result/lexicon_supervised/text_processed_0.npy'
     train_data_name = 'k-fold-dataset/Luxury_Beauty_5'
     prepare_tem(workspace, data_name, train_data_name)
+    # print(naive_bayes(['i','like','you','very','much']))
+    # print(naive_bayes(['i', 'hate', 'you']))

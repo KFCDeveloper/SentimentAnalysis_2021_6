@@ -1,3 +1,10 @@
+# coding=utf-8
+# @Time    : 2021/8/10 16:05
+# @Author  : ydy
+# @Site    :
+# @File    : data_process.py
+# @Version : V 0.1
+# @desc :  之前的数据处理全部白干， 人家是输入预训练模型的就是一组一组的句子，并且 要用别人的dictionary才行，
 import json
 import re
 import string
