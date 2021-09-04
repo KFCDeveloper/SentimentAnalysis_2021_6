@@ -152,21 +152,37 @@ def clean_dataset(csv_workspace, raw_name):
     df.to_csv(csv_workspace + raw_name + '_cleaned.csv', index=False)
 
 
-def product_em():
+def product_em(csv_workspace, raw_name):
     """
     生成product的embeddings
     :return:
     """
     # 读入前10w行的 product 的 id
     df = pd.read_csv(csv_workspace + raw_name + '_cleaned.csv')
+    product_frame = df['asin']
+    product_dic = {}
+    for index in range(len(product_frame)):
+        if product_frame[index] not in product_dic:
+            product_dic[product_frame[index]] = np.random.uniform(-0.01, 0.01, 200)
+    np.save(csv_workspace + 'tempo_data/' + raw_name + '_product_dic.npy', {'product_dic': product_dic})
 
-    # 先全部输入进字典
+
+def user_em(csv_workspace, raw_name):
+    df = pd.read_csv(csv_workspace + raw_name + '_cleaned.csv')
+    user_frame = df['asin']
+    user_dic = {}
+    for index in range(len(user_frame)):
+        if user_frame[index] not in user_dic:
+            user_dic[user_frame[index]] = np.random.uniform(-0.01, 0.01, 200)
+
+    np.save(csv_workspace + 'tempo_data/' + raw_name + '_user_dic.npy', {'user_dic': user_dic})
 
 
 if __name__ == '__main__':
     csv_workspace = '../dataset/Amazon/huapa_workspace/data_processed/'
     raw_name = 'Video_Games_5'
     # clean_dataset(csv_workspace, raw_name)
-    generate_embedding(csv_workspace, raw_name)
+    a = np.load(csv_workspace + 'tempo_data/' + raw_name + '_product_dic.npy', allow_pickle=True).item()['product_dic']
+    # user_em(csv_workspace, raw_name)
     # generate_id_dataframe(csv_workspace, raw_name)
     # print(1)

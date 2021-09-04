@@ -38,11 +38,10 @@ def train(model: HUAPA.HUAPA, optimizer, classes, docs_classes, docs_embeddings,
     return L
 
 
-def train_iters(model, classes, docs_classes, docs_embeddings, user_embeddings, product_embeddings,
+def train_iters(classes, docs_classes, docs_embeddings, user_embeddings, product_embeddings,
                 n_iters, learning_rate=0.005):
     """
 
-    :param model:
     :param classes:
     :param docs_classes:
     :param docs_embeddings:
@@ -52,9 +51,12 @@ def train_iters(model, classes, docs_classes, docs_embeddings, user_embeddings, 
     :param learning_rate:
     :return:
     """
-    adam = optim.Adam(model.parameters(), lr=learning_rate)
+    huapa = HUAPA.HUAPA(sen_embeddings, user_embeddings, product_embeddings, input_dim, hid_word_dim, hid_sen_dim,
+                  user_dim, product_dim, num_layers,
+                  att_word_output_dim, att_sen_output_dim, classes, max_len=50, dropout=0)
+    adam = optim.Adam(huapa.parameters(), lr=learning_rate)
     for iter in range(1, n_iters + 1):
-        loss = train(model, adam, classes, docs_classes, docs_embeddings, user_embeddings, product_embeddings)
+        loss = train(huapa, adam, classes, docs_classes, docs_embeddings, user_embeddings, product_embeddings)
         # 收集 loss 保存模型之类的  做一些保存收集数据的动作
 
     # 所有的训练都结束了，在这里画图，画出过程

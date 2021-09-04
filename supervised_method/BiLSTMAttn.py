@@ -24,11 +24,13 @@ class BiLSTMAttn(nn.Module):
                  att_word_output_dim, att_sen_output_dim, max_len=40, dropout=0.5):
         # 在这里初始化 层
         super(BiLSTMAttn, self).__init__()
-        # 句子的embedding容器
-        self.batch_size = sen_embeddings.size(0)
-        self.step_number = sen_embeddings.size(1)
-        self.sen_emb = nn.Embedding(num_embeddings=self.batch_size, embedding_dim=self.step_number,
-                                    padding_idx=0)  # 从这个直接就等于embedding_dim可以发现，应该是已经把padding都补充完整了
+
+        # 这里是初始化一些结构的，不要在这里输入数据，因为数据会变化的，这是用来初始化模型的，
+        # 模型不是每输入一次数据就再初始化，因为要在模型上面更新参数
+        self.batch_size = 0
+        self.step_number = 0
+        self.sen_emb = None
+
         # self.emb.weight = nn.Parameter(embeddings)        # 句子embedding看起来不需要更新吧。。。
 
         # info embedding 容器
@@ -102,13 +104,18 @@ class BiLSTMAttn(nn.Module):
     def forward(self, sen_batch, embeddings):
         """
         这里定义 architecture的一支，这个类就只是一支分支而已
-        :param embeddings:
+        :param embeddings: user embedding 或者是 product embedding
         :param sen_batch:
         :return:
         """
         ''' # Word Level '''
         '''     ## Word Representation'''
         '''         Embedding Layer | Padding | Sequence_length 40 '''
+        # 句子的embedding容器
+        self.batch_size = sen_batch.size(0)
+        self.step_number = sen_batch.size(1)
+        self.sen_emb = nn.Embedding(num_embeddings=self.batch_size, embedding_dim=self.step_number,
+                                    padding_idx=0)  # 从这个直接就等于embedding_dim可以发现，应该是已经把padding都补充完整了
         sen_batch = self.sen_emb(sen_batch)
         batch_size = len(sen_batch)
 
